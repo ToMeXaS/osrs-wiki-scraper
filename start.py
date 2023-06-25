@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 skills = [
     "Attack", "Strength", "Defence", "Ranged", "Prayer", "Magic", "Runecraft",
     "Hitpoints", "Crafting", "Mining", "Smithing", "Fishing", "Cooking",
-    "Firemaking", "Woodcutting"
+    "Firemaking", "Woodcutting", "Slayer"
 ]
 
 # Send a GET request to the web page
