@@ -1960,7 +1960,7 @@
                 "Death Plateau",
                 "Priest in Peril",
                 "Waterfall Quest",
-                " 10 Slayer (not boostable) or the gas mask from Plague City"
+                "10 Slayer (not boostable) or the gas mask from Plague City"
             ],
             "skills": [
                 {
@@ -1972,6 +1972,11 @@
                     "skill": "Firemaking",
                     "level": 50,
                     "boostable": true
+                },
+                {
+                    "skill": "Slayer",
+                    "level": 10,
+                    "boostable": false
                 }
             ],
             "items": [
@@ -2378,6 +2383,11 @@
                     "skill": "Prayer",
                     "level": 47,
                     "boostable": true
+                },
+                {
+                    "skill": "Slayer",
+                    "level": 42,
+                    "boostable": false
                 }
             ],
             "items": [
@@ -3065,7 +3075,13 @@
                 "Dragon Slayer I",
                 "The Fremennik Trials"
             ],
-            "skills": [],
+            "skills": [
+                {
+                    "skill": "Slayer",
+                    "level": 40,
+                    "boostable": true
+                }
+            ],
             "items": [
                 "5 coal (obtainable during the quest with a pickaxe, which will also be obtainable)",
                 "2 rope (obtainable from crates during the quest)",
@@ -3296,6 +3312,11 @@
                     "skill": "Runecraft",
                     "level": 30,
                     "boostable": false
+                },
+                {
+                    "skill": "Slayer",
+                    "level": 30,
+                    "boostable": false
                 }
             ],
             "items": [
@@ -3463,6 +3484,11 @@
                 "Priest in Peril"
             ],
             "skills": [
+                {
+                    "skill": "Slayer",
+                    "level": 18,
+                    "boostable": false
+                },
                 {
                     "skill": "Crafting",
                     "level": 19,
@@ -3921,6 +3947,11 @@
             ],
             "skills": [
                 {
+                    "skill": "Slayer",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
                     "skill": "Defence",
                     "level": 20,
                     "boostable": false
@@ -4049,6 +4080,11 @@
                 "Watchtower"
             ],
             "skills": [
+                {
+                    "skill": "Slayer",
+                    "level": 69,
+                    "boostable": false
+                },
                 {
                     "skill": "Crafting",
                     "level": 70,
@@ -4643,6 +4679,11 @@
                     "skill": "Attack",
                     "level": 40,
                     "boostable": false
+                },
+                {
+                    "skill": "Slayer",
+                    "level": 38,
+                    "boostable": false
                 }
             ],
             "items": [
@@ -4920,6 +4961,11 @@
                     "boostable": false
                 },
                 {
+                    "skill": "Slayer",
+                    "level": 60,
+                    "boostable": false
+                },
+                {
                     "skill": "Smithing",
                     "level": 60,
                     "boostable": false
@@ -4986,6 +5032,11 @@
                 },
                 {
                     "skill": "Attack",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "Slayer",
                     "level": 50,
                     "boostable": false
                 },
