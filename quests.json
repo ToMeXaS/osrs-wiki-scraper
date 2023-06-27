@@ -1,155 +1,29 @@
 [
     {
-        "start": "Speak to Romeo in Varrock Square. ",
-        "name": "Romeo & Juliet",
-        "description": "Romeo and Juliet are desperately in love, but Juliet's father doesn't approve. Help them to find a way to get married and live happily ever after.",
+        "start": "Willow on the path south of Ice Mountain ",
+        "name": "Below Ice Mountain",
+        "description": "Willow, an energetic archaeologist (perhaps suspiciously so) is hunting for her next big discovery. She believes she has found the entrance to ancient underground ruins found to the west of Ice Mountain. There's a catch though - the entrance is sealed tight and she needs to re-unite her old crew to help her break in. Naturally, she has to stay close to the ruins in order to lay claim to the find, so it falls to you to bring her rag-tag group back together for one last caper and a final big pay-off.\nBurntof is an old dwarf with a penchant for demolition, Checkal is a well-built lifter of heavy things and Marley is a cunning thief with a knack for disarming traps.\n\nTogether, they have the talents it will take to gain entry to the secret ruins. But persuading them might not be easy. See, the gang aren't all too keen on working with Willow again, and her intentions might not be as honourable as she claims...",
         "difficulty": "Novice",
         "length": "Short",
         "requirements": {
-            "quest_points": 0,
+            "quest_points": 16,
             "quests": [],
             "skills": [],
             "items": [
-                "Cadava berries (Can be obtained during quest)"
+                "Cooked meat (can be obtained during the quest)",
+                "Bread",
+                "Knife",
+                "Beer (can be obtained during the quest)",
+                "Alternatively Asgarnian ale, Dwarven stout, or a Wizard's mind bomb"
             ]
         },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Aris in the tent on the western side of Varrock Square. ",
-        "name": "Demon Slayer",
-        "description": "A mighty demon is being summoned to destroy the city of Varrock. You find out you are the one destined to stop him (or at least try).",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Bucket of water (can be obtained during the quest)",
-                "25 bones (can't be noted, but can be delivered in increments)",
-                "1 coin"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Varrock Palace library. Talk to Reldo, the librarian, located at the northern end of Varrock Castle. ",
-        "name": "Shield of Arrav",
-        "description": "Varrockian literature tells of a valuable shield, stolen long ago from the museum of Varrock, by a gang of professional thieves. See if you can track down this shield and return it to the museum. You will need a friend to help you complete this quest.",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Phoenix Gang: 20 coins",
-                "Black Arm Gang: 2 Phoenix crossbows (obtained during the quest)"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Veronica, south of Draynor Manor by the gate. ",
-        "name": "Ernest the Chicken",
-        "description": "Veronica is very worried. Her fianc\u00e9 went into the big spooky manor house to ask for directions. An hour later and he's still not out yet.",
-        "difficulty": "Novice",
-        "length": "Very Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Spade (can be obtained during the quest)",
-                "Fish food (can be obtained during the quest)",
-                "Poison (can be obtained during the quest)"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Morgan in his house in Draynor Village, just north of Ned's house. ",
-        "name": "Vampyre Slayer",
-        "description": "The people of Draynor Village live in constant terror. Their numbers are dwindling, all due to the foul creature lurking in the manor to the north known as a vampyre.",
-        "difficulty": "Intermediate",
-        "length": "Very Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Hammer (can be bought from the general store just north of the Blue Moon Inn for 1 coin)",
-                "Beer (can be bought during the quest for 2 coins)",
-                "Garlic (can be obtained during the quest)",
-                "Stake (obtained from Dr Harlow after giving him a beer)"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Wizard Mizgog on the top floor of the Wizards' Tower. ",
-        "name": "Imp Catcher",
-        "description": "The Wizard Grayzag has summoned hundreds of little imps. They have stolen a lot of things belonging to the Wizard Mizgog including his magic beads.",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Black bead",
-                "Yellow bead",
-                "Red bead",
-                "White bead"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Hassan in the palace at Al Kharid. ",
-        "name": "Prince Ali Rescue",
-        "description": "Prince Ali of Al Kharid has been kidnapped by the scheming Lady Keli. You are hired to stage a rescue mission.",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Soft clay",
-                "3 balls of wool",
-                "Yellow dye or 2 onions and 5 coins",
-                "Redberries",
-                "Ashes",
-                "Bucket of water or jug of water (obtainable during quest)",
-                "Pot of flour",
-                "Bronze bar",
-                "Pink skirt",
-                "3 beers",
-                "Rope (can be bought during the quest at Ned for 18 coins or 4 balls of wool)",
-                "At least 100 coins"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Doric in the small house north of Falador, just outside the east gate of Taverley. ",
-        "name": "Doric's Quest",
-        "description": "Doric the dwarf is happy to let you use his anvils but first he would like you to run an errand for him.",
-        "difficulty": "Novice",
-        "length": "Very Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "6 clay (not soft clay)",
-                "4 copper ores",
-                "2 iron ores"
-            ]
-        },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 coins",
+            "Access to the Ruins of Camdozaal",
+            "Flex emote",
+            "The ability to make a steak sandwich"
+        ]
     },
     {
         "start": "Speak to Sir Amik Varze on the 2nd\u00a0floor[UK]3rd\u00a0floor[US] of the White Knights' Castle's western tower in Falador. ",
@@ -167,12 +41,15 @@
                 "Bronze med helm (can be purchased in the helmet shop in Barbarian Village, spawns by the backdoor of Draynor Manor)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "2,500 Coins"
+        ]
     },
     {
-        "start": "Talk to Hetty in her house in Rimmington, south of Falador and west of Port Sarim. ",
-        "name": "Witch's Potion",
-        "description": "Become one with your darker side. Tap into your hidden depths of magical potential by making a potion with the help of Hetty the Rimmington witch.",
+        "start": "Speak to the Cook in the kitchen of Lumbridge Castle. ",
+        "name": "Cook's Assistant",
+        "description": "The Lumbridge Castle cook is in a mess. It is the Duke of Lumbridge's birthday and the cook is making the cake.\nHe needs a lot of ingredients and doesn't have much time.",
         "difficulty": "Novice",
         "length": "Very Short",
         "requirements": {
@@ -180,18 +57,62 @@
             "quests": [],
             "skills": [],
             "items": [
-                "Burnt meat",
-                "Eye of newt",
-                "Onion",
-                "Rat's tail (only obtainable after starting the quest)"
+                "Pot",
+                "Bucket"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "300 Cooking experience",
+            "Permission to use the Cook-o-matic 100, which reduces the chance of burning some foods."
+        ]
     },
     {
-        "start": "Speak to General Bentnoze or General Wartface in Goblin Village. ",
-        "name": "Goblin Diplomacy",
-        "description": "There's a disturbance in the Goblin Village. Help the goblins solve their dispute so the world doesn't have to worry about rioting goblins. Aim: to help the goblins decide which colour they will wear.",
+        "start": "Speak to Captain Tock at the crossroads north of Port Sarim. ",
+        "name": "The Corsair Curse",
+        "description": "From the newly revealed town of Corsair Cove, deep in the south of Feldip Hills, the captain of the Corsairs has sailed to Port Sarim seeking help. His crew is sick, and he suspects that a curse has been laid upon them.\nIf you can unravel the fearful and conflicting tales of ogre relics, vengeful mermaids and demonic possession, maybe you can help his ailing crew overcome The Corsair Curse.",
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Spade (obtainable during quest)",
+                "Tinderbox (obtainable during quest)"
+            ]
+        },
+        "rewards": [
+            "2 Quest points",
+            "Access to Yusuf's bank in the Corsair Cove."
+        ]
+    },
+    {
+        "start": "Speak to Aris in the tent on the western side of Varrock Square. ",
+        "name": "Demon Slayer",
+        "description": "A mighty demon is being summoned to destroy the city of Varrock. You find out you are the one destined to stop him (or at least try).",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Bucket of water (can be obtained during the quest)",
+                "25 bones (can't be noted, but can be delivered in increments)",
+                "1 coin"
+            ]
+        },
+        "rewards": [
+            "3 Quest points",
+            "Silverlight (if lost, players may retrieve it from Sir Prysin for a fee of 500 coins. It can also be sold to the Wise Old Man for 80 coins.)",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum"
+        ]
+    },
+    {
+        "start": "Speak to Doric in the small house north of Falador, just outside the east gate of Taverley. ",
+        "name": "Doric's Quest",
+        "description": "Doric the dwarf is happy to let you use his anvils but first he would like you to run an errand for him.",
         "difficulty": "Novice",
         "length": "Very Short",
         "requirements": {
@@ -199,34 +120,18 @@
             "quests": [],
             "skills": [],
             "items": [
-                "3 goblin mail (obtained during the quest, all can be found in goblin village)",
-                "1 Blue dye (or 2 woad leaves and 5 coins to obtain a blue dye from Aggie; offer 20 coins to Wyson the gardener and he will give you two woad leaves)",
-                "1 Orange dye \u2013 created by combining red dye with yellow dye",
-                "1 Red dye (or 3 redberries and 5 coins to obtain a red dye from Aggie)",
-                "1 Yellow dye (2 onion and 5 coins to obtain a yellow dye from Aggie)"
+                "6 clay (not soft clay)",
+                "4 copper ores",
+                "2 iron ores"
             ]
         },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Redbeard Frank at the northernmost dock at Port Sarim, just outside The Rusty Anchor. ",
-        "name": "Pirate's Treasure",
-        "description": "Redbeard Frank knows the location of pirate treasure, but he'll only part with the knowledge for a bottle of Karamjan rum.",
-        "difficulty": "Novice",
-        "length": "Very Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Karamjan rum (obtainable during the quest for 30 coins)",
-                "White apron (obtainable during the quest in Port Sarim at Gerrant's Fishy Business.)",
-                "60 coins (only 30 is needed if using a Ring of charos(a))",
-                "10 bananas (obtainable during the quest)",
-                "Spade (obtainable during the quest)"
-            ]
-        },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,300 Mining experience",
+            "180 coins",
+            "The ability to use Doric's anvils",
+            "Bronze pickaxe given at the start of the quest"
+        ]
     },
     {
         "start": "Speak to the Guildmaster in the Champions' Guild. ",
@@ -253,46 +158,20 @@
                 "2,000 coins"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "18,650 Strength experience",
+            "18,650 Defence experience",
+            "The ability to equip a green d'hide body, rune platebody, and dragon platebody",
+            "Access to Crandor",
+            "Access to the Corsair Cove Resource Area",
+            "The ability to be assigned Dragons as a Slayer task (obtainable without completion)"
+        ]
     },
     {
-        "start": "Speak to Duke Horacio on the 1st\u00a0floor[UK]2nd\u00a0floor[US] of Lumbridge Castle. ",
-        "name": "Rune Mysteries",
-        "description": "Recent research at the Wizards' Tower has found a way to create Runes for the first time in centuries. Assist the head wizard Sedridor in his research and he too may teach you these secrets!",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "None"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Abigale (or Hewey, who sits next to her) in the south-eastern corner of Lumbridge Swamp, near the fishing spots. ",
-        "name": "Misthalin Mystery",
-        "description": "A woman cries as a man lays dying, desperately they beg you to stop a cryptic killer before their friends suffer a similar fate.",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Bucket (obtainable during quest)",
-                "Tinderbox (obtainable during quest)",
-                "Knife (obtainable during quest)"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Veos in The Sheared Ram in Lumbridge. ",
-        "name": "X Marks the Spot",
-        "description": "Veos has long been a lover of treasure hunts and his latest hunt has brought him to Lumbridge. However, not knowing the area well, Veos could use some help finding this treasure.",
+        "start": "Speak to Veronica, south of Draynor Manor by the gate. ",
+        "name": "Ernest the Chicken",
+        "description": "Veronica is very worried. Her fianc\u00e9 went into the big spooky manor house to ask for directions. An hour later and he's still not out yet.",
         "difficulty": "Novice",
         "length": "Very Short",
         "requirements": {
@@ -300,35 +179,21 @@
             "quests": [],
             "skills": [],
             "items": [
-                "Spade"
+                "Spade (can be obtained during the quest)",
+                "Fish food (can be obtained during the quest)",
+                "Poison (can be obtained during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "300 Coins",
+            "Access to the Killerwatt Plane (Members only)"
+        ]
     },
     {
-        "start": "Willow on the path south of Ice Mountain ",
-        "name": "Below Ice Mountain",
-        "description": "Willow, an energetic archaeologist (perhaps suspiciously so) is hunting for her next big discovery. She believes she has found the entrance to ancient underground ruins found to the west of Ice Mountain. There's a catch though - the entrance is sealed tight and she needs to re-unite her old crew to help her break in. Naturally, she has to stay close to the ruins in order to lay claim to the find, so it falls to you to bring her rag-tag group back together for one last caper and a final big pay-off.\nBurntof is an old dwarf with a penchant for demolition, Checkal is a well-built lifter of heavy things and Marley is a cunning thief with a knack for disarming traps.\n\nTogether, they have the talents it will take to gain entry to the secret ruins. But persuading them might not be easy. See, the gang aren't all too keen on working with Willow again, and her intentions might not be as honourable as she claims...",
-        "difficulty": "Novice",
-        "length": "Short",
-        "requirements": {
-            "quest_points": 16,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Cooked meat (can be obtained during the quest)",
-                "Bread",
-                "Knife",
-                "Beer (can be obtained during the quest)",
-                "Alternatively Asgarnian ale, Dwarven stout, or a Wizard's mind bomb"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Fred the Farmer in the house by the sheep pen north of Lumbridge Castle. ",
-        "name": "Sheep Shearer",
-        "description": "Fred the Farmer's sheep are getting mighty woolly. He will pay you to shear them.",
+        "start": "Speak to General Bentnoze or General Wartface in Goblin Village. ",
+        "name": "Goblin Diplomacy",
+        "description": "There's a disturbance in the Goblin Village. Help the goblins solve their dispute so the world doesn't have to worry about rioting goblins. Aim: to help the goblins decide which colour they will wear.",
         "difficulty": "Novice",
         "length": "Very Short",
         "requirements": {
@@ -336,47 +201,42 @@
             "quests": [],
             "skills": [],
             "items": [
-                "20 balls of wool (unnoted)",
-                "or",
-                "",
-                "Shears to obtain wool to spin into balls of wool (obtained during the quest)"
+                "3 goblin mail (obtained during the quest, all can be found in goblin village)",
+                "1 Blue dye (or 2 woad leaves and 5 coins to obtain a blue dye from Aggie; offer 20 coins to Wyson the gardener and he will give you two woad leaves)",
+                "1 Orange dye \u2013 created by combining red dye with yellow dye",
+                "1 Red dye (or 3 redberries and 5 coins to obtain a red dye from Aggie)",
+                "1 Yellow dye (2 onion and 5 coins to obtain a yellow dye from Aggie)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "5 Quest points",
+            "200 Crafting experience",
+            "A gold bar"
+        ]
     },
     {
-        "start": "Speak to the Cook in the kitchen of Lumbridge Castle. ",
-        "name": "Cook's Assistant",
-        "description": "The Lumbridge Castle cook is in a mess. It is the Duke of Lumbridge's birthday and the cook is making the cake.\nHe needs a lot of ingredients and doesn't have much time.",
+        "start": "Speak to Wizard Mizgog on the top floor of the Wizards' Tower. ",
+        "name": "Imp Catcher",
+        "description": "The Wizard Grayzag has summoned hundreds of little imps. They have stolen a lot of things belonging to the Wizard Mizgog including his magic beads.",
         "difficulty": "Novice",
-        "length": "Very Short",
-        "requirements": {
-            "quest_points": 0,
-            "quests": [],
-            "skills": [],
-            "items": [
-                "Pot",
-                "Bucket"
-            ]
-        },
-        "rewards": []
-    },
-    {
-        "start": "Speak to Captain Tock at the crossroads north of Port Sarim. ",
-        "name": "The Corsair Curse",
-        "description": "From the newly revealed town of Corsair Cove, deep in the south of Feldip Hills, the captain of the Corsairs has sailed to Port Sarim seeking help. His crew is sick, and he suspects that a curse has been laid upon them.\nIf you can unravel the fearful and conflicting tales of ogre relics, vengeful mermaids and demonic possession, maybe you can help his ailing crew overcome The Corsair Curse.",
-        "difficulty": "Intermediate",
         "length": "Short",
         "requirements": {
             "quest_points": 0,
             "quests": [],
             "skills": [],
             "items": [
-                "Spade (obtainable during quest)",
-                "Tinderbox (obtainable during quest)"
+                "Black bead",
+                "Yellow bead",
+                "Red bead",
+                "White bead"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "875 Magic experience",
+            "The amulet of accuracy",
+            "After the quest players can obtain more amulets by speaking to Wizard Mizgog with a complete set of beads."
+        ]
     },
     {
         "start": "Speak to the squire in the courtyard of the White Knights' Castle in Falador. ",
@@ -401,7 +261,92 @@
                 "Any pickaxe (one spawns in south Falador)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "12,725 Smithing experience",
+            "A blurite sword (if you got Thurgo to make you an extra one)",
+            "The ability to smelt blurite ore into blurite bars (members only)"
+        ]
+    },
+    {
+        "start": "Speak to Abigale (or Hewey, who sits next to her) in the south-eastern corner of Lumbridge Swamp, near the fishing spots. ",
+        "name": "Misthalin Mystery",
+        "description": "A woman cries as a man lays dying, desperately they beg you to stop a cryptic killer before their friends suffer a similar fate.",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Bucket (obtainable during quest)",
+                "Tinderbox (obtainable during quest)",
+                "Knife (obtainable during quest)"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "Uncut ruby",
+            "Uncut emerald",
+            "Uncut sapphire",
+            "600 Crafting experience"
+        ]
+    },
+    {
+        "start": "Speak to Redbeard Frank at the northernmost dock at Port Sarim, just outside The Rusty Anchor. ",
+        "name": "Pirate's Treasure",
+        "description": "Redbeard Frank knows the location of pirate treasure, but he'll only part with the knowledge for a bottle of Karamjan rum.",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Karamjan rum (obtainable during the quest for 30 coins)",
+                "White apron (obtainable during the quest in Port Sarim at Gerrant's Fishy Business.)",
+                "60 coins (only 30 is needed if using a Ring of charos(a))",
+                "10 bananas (obtainable during the quest)",
+                "Spade (obtainable during the quest)"
+            ]
+        },
+        "rewards": [
+            "2 Quest points",
+            "Ability to use the pay-fare option to and from Karamja.",
+            "Access to One-Eyed Hector's Treasure Chest (contains a gold ring, an emerald, and 450 coins)."
+        ]
+    },
+    {
+        "start": "Speak to Hassan in the palace at Al Kharid. ",
+        "name": "Prince Ali Rescue",
+        "description": "Prince Ali of Al Kharid has been kidnapped by the scheming Lady Keli. You are hired to stage a rescue mission.",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Soft clay",
+                "3 balls of wool",
+                "Yellow dye or 2 onions and 5 coins",
+                "Redberries",
+                "Ashes",
+                "Bucket of water or jug of water (obtainable during quest)",
+                "Pot of flour",
+                "Bronze bar",
+                "Pink skirt",
+                "3 beers",
+                "Rope (can be bought during the quest at Ned for 18 coins or 4 balls of wool)",
+                "At least 100 coins"
+            ]
+        },
+        "rewards": [
+            "3 Quest points",
+            "700 coins",
+            "Free passage through the Lumbridge - Al Kharid toll gate from now on",
+            "(Members) Access to the Sorceress's Garden Thieving minigame."
+        ]
     },
     {
         "start": "Speak to Father Aereck in the chapel south-east of Lumbridge Castle. ",
@@ -417,7 +362,162 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,125 Prayer experience",
+            "Ghostspeak amulet (keep for several quests and content in the future)"
+        ]
+    },
+    {
+        "start": "Speak to Romeo in Varrock Square. ",
+        "name": "Romeo & Juliet",
+        "description": "Romeo and Juliet are desperately in love, but Juliet's father doesn't approve. Help them to find a way to get married and live happily ever after.",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Cadava berries (Can be obtained during quest)"
+            ]
+        },
+        "rewards": [
+            "5 Quest points"
+        ]
+    },
+    {
+        "start": "Speak to Duke Horacio on the 1st\u00a0floor[UK]2nd\u00a0floor[US] of Lumbridge Castle. ",
+        "name": "Rune Mysteries",
+        "description": "Recent research at the Wizards' Tower has found a way to create Runes for the first time in centuries. Assist the head wizard Sedridor in his research and he too may teach you these secrets!",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "None"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "The ability to mine rune essence",
+            "An air talisman",
+            "The ability to use lamps and books of knowledge from random events on Runecraft",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
+    },
+    {
+        "start": "Speak to Fred the Farmer in the house by the sheep pen north of Lumbridge Castle. ",
+        "name": "Sheep Shearer",
+        "description": "Fred the Farmer's sheep are getting mighty woolly. He will pay you to shear them.",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "20 balls of wool (unnoted)",
+                "or",
+                "",
+                "Shears to obtain wool to spin into balls of wool (obtained during the quest)"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "150 Crafting experience",
+            "60 coins"
+        ]
+    },
+    {
+        "start": "Varrock Palace library. Talk to Reldo, the librarian, located at the northern end of Varrock Castle. ",
+        "name": "Shield of Arrav",
+        "description": "Varrockian literature tells of a valuable shield, stolen long ago from the museum of Varrock, by a gang of professional thieves. See if you can track down this shield and return it to the museum. You will need a friend to help you complete this quest.",
+        "difficulty": "Novice",
+        "length": "Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Phoenix Gang: 20 coins",
+                "Black Arm Gang: 2 Phoenix crossbows (obtained during the quest)"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "600 coins",
+            "Additional rewards when talking with Historian Minas in the Varrock Museum\n5 Kudos\nAntique lamp awarding 1,000xp in a skill of at least level 20",
+            "5 Kudos",
+            "Antique lamp awarding 1,000xp in a skill of at least level 20"
+        ]
+    },
+    {
+        "start": "Speak to Morgan in his house in Draynor Village, just north of Ned's house. ",
+        "name": "Vampyre Slayer",
+        "description": "The people of Draynor Village live in constant terror. Their numbers are dwindling, all due to the foul creature lurking in the manor to the north known as a vampyre.",
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Hammer (can be bought from the general store just north of the Blue Moon Inn for 1 coin)",
+                "Beer (can be bought during the quest for 2 coins)",
+                "Garlic (can be obtained during the quest)",
+                "Stake (obtained from Dr Harlow after giving him a beer)"
+            ]
+        },
+        "rewards": [
+            "3 Quest points",
+            "4,825 Attack experience"
+        ]
+    },
+    {
+        "start": "Talk to Hetty in her house in Rimmington, south of Falador and west of Port Sarim. ",
+        "name": "Witch's Potion",
+        "description": "Become one with your darker side. Tap into your hidden depths of magical potential by making a potion with the help of Hetty the Rimmington witch.",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Burnt meat",
+                "Eye of newt",
+                "Onion",
+                "Rat's tail (only obtainable after starting the quest)"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "325 Magic experience"
+        ]
+    },
+    {
+        "start": "Speak to Veos in The Sheared Ram in Lumbridge. ",
+        "name": "X Marks the Spot",
+        "description": "Veos has long been a lover of treasure hunts and his latest hunt has brought him to Lumbridge. However, not knowing the area well, Veos could use some help finding this treasure.",
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "requirements": {
+            "quest_points": 0,
+            "quests": [],
+            "skills": [],
+            "items": [
+                "Spade"
+            ]
+        },
+        "rewards": [
+            "1 Quest point",
+            "200 coins",
+            "Antique lamp providing 300 experience in a skill of the player's choosing (can be reclaimed if lost or destroyed)",
+            "A beginner clue scroll (only if the player does not have one already in their possession; can be claimed later if players had one in their possession already)"
+        ]
     },
     {
         "start": "Speak to Kaqemeex in the stone circle north of Taverley. ",
@@ -436,7 +536,11 @@
                 "Raw chicken"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "250 Herblore experience",
+            "The ability to use the Herblore skill"
+        ]
     },
     {
         "start": "Go to Lumbridge Swamp. Talk to the campers there. ",
@@ -464,7 +568,12 @@
                 "Woodcutting axe (you will need to bank the axe before accessing Entrana -- you cannot use a blessed axe)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "Access to Zanaris",
+            "Ability to buy and wield dragon longswords and dragon daggers (with level 60 Attack)",
+            "Ability to make cosmic runes with the Runecraft skill"
+        ]
     },
     {
         "start": "Talk to the boy near the gate entrance of Taverley. ",
@@ -481,7 +590,10 @@
                 "Leather gloves (obtainable during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "6,325 Hitpoints experience"
+        ]
     },
     {
         "start": "Talk to King Arthur in Camelot. ",
@@ -500,7 +612,11 @@
                 "Bat bones (obtainable during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "6 Quest points",
+            "Excalibur (Required for Holy Grail quest.)",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Speak to Achietties by the entrance to the Heroes' Guild, between Taverley and Burthorpe. ",
@@ -550,7 +666,26 @@
                 "Some form of Ranged or Magic attack method (if using a Toxic Blowpipe make sure it is set to Longrange)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,075 Attack experience",
+            "3,075 Defence experience",
+            "3,075 Strength experience",
+            "3,075 Hitpoints experience",
+            "2,075 Ranged experience",
+            "2,725 Fishing experience",
+            "2,825 Cooking experience",
+            "1,575 Woodcutting experience",
+            "1,575 Firemaking experience",
+            "2,275 Smithing experience",
+            "2,575 Mining experience",
+            "1,325 Herblore experience",
+            "Access to the Heroes' Guild",
+            "The ability to purchase and wield dragon battleaxes and maces",
+            "Ability to recharge amulets of glory at the Fountain of Rune (This grants 6 charges instead of the usual 4)",
+            "Ability to use Charge dragonstone jewellery scrolls.",
+            "Access to the Fountain of Heroes, where players can recharge their amulets of glory"
+        ]
     },
     {
         "start": "Speak to Thormac at the top floor of the Sorcerer's Tower, south-east of the Ranging Guild. ",
@@ -572,7 +707,11 @@
                 "Dusty key (obtainable during the quest) or  70 Agility (boostable)."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "6,625 Strength experience",
+            "The ability to have Thormac turn a battlestaff into a mystic staff for 40,000 coins"
+        ]
     },
     {
         "start": "Talk to Dimintheis in south-east Varrock. ",
@@ -619,7 +758,15 @@
                 "Means to cast all 4 Blast spells"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Steel gauntlets\nThe steel gauntlets offer useful perks. Each brother will imbue them with a special ability. They will initially do this for free. Be careful choosing, though, since you can only have one effect, and it will cost you 25,000 coins to change them. Dimintheis will provide you with a \"magically\" found pair should you lose them. Note: Although they are called \"steel\", players with 1 Defence can wear them.",
+            "The steel gauntlets offer useful perks. Each brother will imbue them with a special ability. They will initially do this for free. Be careful choosing, though, since you can only have one effect, and it will cost you 25,000 coins to change them. Dimintheis will provide you with a \"magically\" found pair should you lose them. Note: Although they are called \"steel\", players with 1 Defence can wear them.",
+            "Cooking gauntlets (Caleb): Reduces the chance of burning certain fish significantly: (lobsters, swordfish, monkfish, sharks and anglerfish.)",
+            "Goldsmith gauntlets (Avan): Increases the Smithing experience from smelting gold by 150%, for a total of 250% - from 22.5 to 56.2.",
+            "Chaos gauntlets (Johnathon): Increases the damage done by bolt (chaos rune) spells by 3. Stacks multiplicatively with the Tome of Fire and Slayer helmet (i), the former having a moderate upkeep cost, for a maximum hit of 25, which is by far the highest damage per second for a beginner.\nAfter the Family Pest miniquest, you can have all three gauntlets for 500,000 coins.",
+            "After the Family Pest miniquest, you can have all three gauntlets for 500,000 coins."
+        ]
     },
     {
         "start": "Dwarves at the entrances to the tunnel that goes under White Wolf Mountain. ",
@@ -646,7 +793,12 @@
                 "Red vine worm (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,437 Fishing experience",
+            "Access to the underground White Wolf Mountain passage",
+            "Ability to catch minnows in the Fishing Guild with 82 Fishing and a full Angler's outfit"
+        ]
     },
     {
         "start": "Speak to Kangai Mau at The Shrimp and Parrot restaurant in Brimhaven. ",
@@ -662,7 +814,11 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,775 Thieving experience",
+            "5 Swordfish"
+        ]
     },
     {
         "start": "Speak to Brother Omad at the Ardougne Monastery south of East Ardougne. ",
@@ -679,7 +835,12 @@
                 "Regular logs or a regular plank"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 Woodcutting experience",
+            "8 Law runes",
+            "Brother Omad will throw parties for you by speaking to him."
+        ]
     },
     {
         "start": "Speak to Lucien at the Flying Horse Inn in the north-west corner of East Ardougne. ",
@@ -702,7 +863,16 @@
                 "20 unnoted limpwurt roots"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,500 Ranged experience",
+            "8,000 Fletching experience",
+            "Armadyl pendant (if you sided with Lucien, you must kill Guardians of Armadyl to obtain it)",
+            "Pendant of Lucien, which grants access to a door in the Temple of Ikov",
+            "Optional; Boots of lightness",
+            "Optional; Shiny key, for a shortcut between the Temple of Ikov and McGrubor's Wood",
+            "Completing this quest awards the player with 5 kudos which can be claimed by talking to Historian Minas in the Varrock Museum"
+        ]
     },
     {
         "start": "Talk to Brother Kojo in the Clock Tower south of East Ardougne. ",
@@ -718,7 +888,10 @@
                 "Bucket of water (obtainable during quest) or Ice gloves or Smiths gloves (i)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "500 coins"
+        ]
     },
     {
         "start": "Speak to King Arthur in Camelot. ",
@@ -742,7 +915,13 @@
                 "Excalibur"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "11,000 Prayer experience",
+            "15,300 Defence experience",
+            "Access to the Fisher Realm",
+            "Ability to put King Arthur picture on the wall in the Construction skill"
+        ]
     },
     {
         "start": "Centre of the Tree Gnome Village Maze, talk to King Bolren. ",
@@ -759,7 +938,12 @@
                 "Combat equipment"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "11,450 Attack experience",
+            "Use of spirit trees for transportation",
+            "The Gnome amulet"
+        ]
     },
     {
         "start": "Talk to Lady Servil. She is west by south-west of the Monastery that is south of Ardougne. ",
@@ -775,7 +959,13 @@
                 "5 coins (for Khali brew)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "12,175 Attack experience",
+            "2,175 Thieving experience",
+            "1,000 coins",
+            "The Khazard armour set"
+        ]
     },
     {
         "start": "Central Ardougne, south of King Lathas' castle. Talk to Ceril Carnillean. ",
@@ -791,7 +981,14 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1500 Thieving experience",
+            "2000 coins (plus 5 from the fake ending if you sided with the Carnillean family)",
+            "Hazeel's mark (if you sided with Hazeel)",
+            "Carnillean armour (if you sided with Ceril and obtained an extra during the quest)",
+            "5 Kudos, which can be claimed by talking to Historian Minas in the Varrock Museum"
+        ]
     },
     {
         "start": "Speak to Councillor Halgrive outside of the East Ardougne church. ",
@@ -807,7 +1004,10 @@
                 "100 coins"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "3,100 coins"
+        ]
     },
     {
         "start": "Talk to Edmond, living next to the wall surrounding West Ardougne, north of Ardougne Castle. ",
@@ -833,7 +1033,11 @@
                 "Picture of Elena (Inside Alrena and Edmond's house)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,425 Mining experience",
+            "Ardougne teleport scroll, reading it unlocks the Ardougne Teleport with 51 Magic and use of the Ardougne teletab."
+        ]
     },
     {
         "start": "Speak to Caroline just north of Witchaven. ",
@@ -855,7 +1059,12 @@
                 "Swamp paste (made by mixing flour with swamp tar then cooking the mixture on a fire; can also be bought from a Trader crewmember for 75 coins, from Rasolo for 60 coins west of the Fishing Guild, or from the Khazard General Store for 42 coins at full stock)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "7,175 Fishing experience",
+            "Access to the Fishing Platform",
+            "Oyster pearls"
+        ]
     },
     {
         "start": "Speak to Almera in her house north-east of Baxtorian Falls. ",
@@ -874,7 +1083,14 @@
                 "Rope"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "13,750 Strength experience",
+            "13,750 Attack experience",
+            "2 Diamonds",
+            "2 Gold bars",
+            "40 Mithril seeds"
+        ]
     },
     {
         "start": "Speak to Trufitus at Tai Bwo Wannai. ",
@@ -892,7 +1108,10 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "775 Herblore experience"
+        ]
     },
     {
         "start": "Talk to King Narnode Shareen in the Grand Tree. ",
@@ -908,7 +1127,17 @@
                 "1,000 coins, unless you have helped Femi or completed Tree Gnome Village and plan to use spirit trees."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "5 Quest points",
+            "18,400 Attack experience",
+            "7,900 Agility experience",
+            "2,150 Magic experience",
+            "Access to the mine under the Grand Tree.",
+            "Access to the Gnome glider transportation system.",
+            "Ability to use the Agility shortcut from the Grand Tree to the Barbarian Outpost (with 37 Agility).",
+            "Ability to use the Spirit Tree in the Stronghold after the completion of Tree Gnome Village.",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Talk to King Lathas on the 1st\u00a0floor[UK]2nd\u00a0floor[US] of Ardougne Castle. ",
@@ -939,7 +1168,13 @@
                 "Tinderbox (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "5 Quest points",
+            "3,000 Agility experience",
+            "3,000 Attack experience",
+            "Iban's staff and use of the Iban Blast spell.",
+            "Klank's gauntlets"
+        ]
     },
     {
         "start": "Talk to the Observatory professor in the Observatory Reception Room north of Castle Wars. ",
@@ -957,7 +1192,27 @@
                 "Molten glass"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,250 Crafting experience",
+            "Your item reward depends on what astrological sign you see when you look through the telescope. It is different for each person. Each one rewards an uncut sapphire as well as the following:\nAquarius: 25 water runes\nAries: 875 Attack experience\nCancer: An amulet of defence\nCapricorn: 875 Strength experience\nGemini: A black 2h sword\nLeo: 875 Hitpoints experience\nLibra: 3 law runes\nPisces: 3 tuna\nSagittarius: A maple longbow\nScorpio: Weapon poison\nTaurus: A 1-dose super strength potion\nVirgo: 875 Defence experience",
+            "Aquarius: 25 water runes",
+            "Aries: 875 Attack experience",
+            "Cancer: An amulet of defence",
+            "Capricorn: 875 Strength experience",
+            "Gemini: A black 2h sword",
+            "Leo: 875 Hitpoints experience",
+            "Libra: 3 law runes",
+            "Pisces: 3 tuna",
+            "Sagittarius: A maple longbow",
+            "Scorpio: Weapon poison",
+            "Taurus: A 1-dose super strength potion",
+            "Virgo: 875 Defence experience",
+            "The Spirit of Scorpius will now give you a mould to make unholy symbols, and he will bless them for you too. He can be found in the graveyard north of the Observatory.",
+            "Talk to the Observatory assistant after the quest and he will reward you with a jug of wine as well as tell you his and the professor's real name.",
+            "Access to the grappling shortcut rock outside the Observatory.",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Speak to Irena by the Shantay Pass, south of Al Kharid. ",
@@ -985,7 +1240,14 @@
                 "Means to enter the desert. (Such as the Shantay pass,  Desert amulet 2, Teleport tablet or scrolls, Fairy rings or the Pharaoh's sceptre)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "4,650 Experience in your choice of two skills (you may pick same skill twice): Agility, Fletching, Smithing, or Thieving.",
+            "The ability to smith darts.",
+            "The wrought iron key - allows access to a special door inside the Desert Mining Camp, which has several higher tier ores inside, including mithril ore and adamantite ore.",
+            "Full slave robes",
+            "6 bronze darts"
+        ]
     },
     {
         "start": "Begin the quest by speaking to Watchtower Wizard north of Yanille in the Watchtower. You must climb the trellis on the north side of the tower to get up there for the first time. ",
@@ -1024,7 +1286,13 @@
                 "Jangerberries (can be obtained during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "15,250 Magic experience",
+            "5,000 Coins",
+            "A scroll, the reading of which gives you the ability to use Watchtower Teleport",
+            "Access to the ogre city (and Ogre Enclave where you can fight blue dragons. You will not need an extra nightshade to enter after the quest is complete.)"
+        ]
     },
     {
         "start": "Talk to Captain Lawgof, south of the Coal Trucks, north-west of the Fishing Guild. ",
@@ -1040,7 +1308,12 @@
                 "Hammer (obtained during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "750 Crafting experience",
+            "The ability to buy and use a dwarf multicannon",
+            "The ability to make cannonballs"
+        ]
     },
     {
         "start": "The Sinclair Mansion, north along the path between Seers' Village and Camelot. Talk to one of the guards around the mansion. ",
@@ -1056,7 +1329,11 @@
                 "Pot"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "1,406 Crafting experience",
+            "2,000 Coins"
+        ]
     },
     {
         "start": "Talk to an examiner in the Exam Centre south of the digsite. ",
@@ -1083,7 +1360,16 @@
                 "Leather boots and leather gloves (gloves can be stolen from a Digsite workman, but boots can not)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "15,300 Mining exp",
+            "2,000 Herblore exp",
+            "2 gold bars",
+            "Show the museum curator the Level 3 certificate to choose between something to drink (Fruit blast) or something to eat (chocolate cake). Get the cake for Desert Treasure I or the fruit blast for Recipe for Disaster. Make sure that you go through the dialogue for each one that you give it or he will not give you a chance to pick which reward you want and you will receive nothing.",
+            "The ability to do Varrock Museum specimen cleaning to obtain a Digsite pendant.",
+            "The Ancient talisman can be viewed in the Digsite Exhibit at the museum on the ground\u00a0floor[UK]1st\u00a0floor[US].",
+            "Previously granted the ability to choose the book of darkness after completion of Horror from the Deep."
+        ]
     },
     {
         "start": "Go to Gertrude's house which is just west of Varrock. ",
@@ -1103,7 +1389,14 @@
                 "Doogle leaves (South of Gertrude's house)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,525 Cooking experience",
+            "Your own kitten",
+            "Chocolate cake",
+            "Stew",
+            "Gertrude will now sell kittens for you to raise for 100 coins each."
+        ]
     },
     {
         "start": "Talk to the Legends' Guards just outside of the Legends' Guild. ",
@@ -1193,7 +1486,15 @@
                 "3 Papyrus (4-5 in case one is torn -- obtainable during the quest if travelling via Shilo Village or from the spawn on Radimus's desk)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "Access to the Legends' Guild (including shop to buy the cape of legends)",
+            "The ability to wield the dragon sq shield",
+            "30,000 experience each in four skills of your choice (limited to Attack, Defence, Strength, Hitpoints, Prayer, Magic, Woodcutting, Crafting, Smithing, Herblore, Agility, Thieving. It is possible to choose the same skill all four times)",
+            "The ability to charge your skills necklace or combat bracelet at the Legends' Guild or the Fountain of Rune",
+            "Access to the Kharazi Jungle and a vine shortcut into it, requiring 79 Agility",
+            "Radimus Erkle will provide replacement dark daggers, which can be investigated via right-click to switch appearance between a dark or glowing dagger"
+        ]
     },
     {
         "start": "Talk to Denulth in his tent in Burthorpe. Tell him you will discover the path for him. ",
@@ -1213,7 +1514,13 @@
                 "Asgarnian ale (can be found on the bar at the pub in Burthorpe)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,000 Attack experience",
+            "Steel claws",
+            "The ability to make claws",
+            "Ability to purchase and wear climbing boots from Tenzing"
+        ]
     },
     {
         "start": "Talk to Sanfew in upper floor of the building where Jatix's Herblore Shop is in Taverley. ",
@@ -1241,7 +1548,14 @@
                 "Ranarr potion (unf)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "11,000 Herblore experience",
+            "The ability to grow and steal Goutweed, which can be traded with Sanfew for herbs.",
+            "1 Burnt Meat",
+            "The ability to use the Trollheim Teleport spell.",
+            "The ability to use a Scroll of redirection to redirect a Teleport to house tablet to Trollheim."
+        ]
     },
     {
         "start": "Speak to Rantz, far east of Feldip Hills. ",
@@ -1279,7 +1593,15 @@
                 "Doogle leaves (can be obtained during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "262 Fletching experience",
+            "1,470 Cooking experience",
+            "735 Ranged experience",
+            "An ogre bow",
+            "The ability to fletch ogre arrows",
+            "The ability to cook chompy birds and earn a bowman hat"
+        ]
     },
     {
         "start": "Seers' Village, the house south-west of the bank. Search the bookcase there. ",
@@ -1317,7 +1639,13 @@
                 "4 coal (4 more for each additional bar you would like to produce)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Crafting experience",
+            "5,000 Smithing experience",
+            "Access to the Elemental Workshop",
+            "An elemental shield, as well as the ability to make and wield them"
+        ]
     },
     {
         "start": "Speak to Drezel under the Paterdomus Temple near the River Salve. ",
@@ -1338,7 +1666,16 @@
                 "6 empty inventory spaces"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "3,000 Crafting experience",
+            "2,000 Defence experience",
+            "2,000 Hitpoints experience",
+            "Access to Mort Myre Swamp and the Nature Spirit altar, where you can replenish and temporarily boost your prayer points by 2",
+            "Ability to fight ghasts",
+            "3 meat pies and 3 apple pies unless they were rotted by the ghasts",
+            "Ability to build the fire of dehumidification after completion of Making Friends with My Arm"
+        ]
     },
     {
         "start": "Speak to King Roald in the Varrock Palace. ",
@@ -1355,7 +1692,13 @@
                 "Bucket (spawns above the Varrock Castle's kitchen in the north-easternmost room (go to the kitchen, and climb up the stairs))"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,406 Prayer experience",
+            "Wolfbane dagger, prevents the citizens of Canifis from transforming into werewolves when attacked",
+            "Route to Canifis and Morytania",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Talk to King Lathas on the 1st\u00a0floor[UK]2nd\u00a0floor[US] of Ardougne Castle. ",
@@ -1392,7 +1735,16 @@
                 "OPTIONAL: Your Iban's staff or its upgraded counterpart in order to recharge it, if you have space available in your inventory."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "13,750 Agility experience",
+            "15,000 coins",
+            "Access to the elven kingdom of Tirannwn and the overpass of Arandar",
+            "The ability to wield the dragon halberd (With level 60 Attack and 30 Strength)",
+            "The ability to charter a ship to Port Tyras",
+            "The ability to use Iorwerth camp teleport scrolls",
+            "The ability to use Zul-Andra teleport scrolls and battle Zulrah"
+        ]
     },
     {
         "start": "Talk to Timfraku in his house in Tai Bwo Wannai. ",
@@ -1432,7 +1784,20 @@
                 "Karamjan rum or 30 coins to purchase (if obtaining the rum before starting, add the sliced banana or the rum will disappear when you leave the island)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,000 Coins (awarded by Timfraku immediately upon quest completion)",
+            "5,000 Cooking experience (claimed upon speaking to Tinsay)",
+            "5,000 Fishing experience (claimed upon speaking to Tiadeche)",
+            "2,500 Attack experience, 2,500 Strength experience, and a karambwan-poisoned rune spear (claimed upon speaking to Tamayu)",
+            "Access to Tamayu's Spear Stall (sells cleaning cloths)",
+            "Access to Tiadeche's Karambwan Stall (sells raw karambwans and karambwan vessels)",
+            "The ability to pray at the newly repaired tribal statue (works like an altar) by talking to Tinsay and Tiadeche in the village after the quest",
+            "The ability to catch and cook karambwans by talking to Tinsay in the village after the quest",
+            "The ability to fight the Shaikahan (level 83 - you need a kp spear to hit it)",
+            "The ability to use Tai bwo wannai teleport scrolls",
+            "The ability to take part in the Smithing section of Otto's Barbarian Training."
+        ]
     },
     {
         "start": "Talk to Denulth in Burthorpe. ",
@@ -1450,7 +1815,13 @@
                 "Climbing boots or 12 coins to buy them"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Law talisman (if you lose it, you can get another from Dunstan for 1,000 coins)",
+            "Ability to make law runes",
+            "Access to Trollheim and the Troll Stronghold",
+            "Ability to access the God Wars Dungeon"
+        ]
     },
     {
         "start": "Find the Diary of Herbi Flax on a shelf in a house at the village of Mort'ton. ",
@@ -1481,10 +1852,17 @@
                 "Tinderbox",
                 "An axe for cutting pyre logs",
                 "2 Ashes",
-                "Prior to building the temple, you need a hammer (1 coin at the general store). However, a regular hammer is insufficient to build the temple without a large group. An additional 13,000 coins (or 5,512 on the Grand Exchange) allows you to buy a Flamtaer hammer from Razmire, which is necessary to complete this part of the quest without a group."
+                "Prior to building the temple, you need a hammer (1 coin at the general store). However, a regular hammer is insufficient to build the temple without a large group. An additional 13,000 coins (or 5,498 on the Grand Exchange) allows you to buy a Flamtaer hammer from Razmire, which is necessary to complete this part of the quest without a group."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "2,000 Herblore experience",
+            "2,000 Crafting experience",
+            "Ability to play the Shades of Mort'ton minigame",
+            "Ability to use the Shades of Mort'ton minigame teleport",
+            "Bonus: If you take the Diary of Herbi Flax to the Apothecary in Varrock, you'll get an extra 335 Herblore experience (can only be done once)."
+        ]
     },
     {
         "start": "Speak to Brundt the Chieftain (located in the longhall) in Rellekka. ",
@@ -1520,7 +1898,23 @@
                 "Cabbage (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "2,812.4 Agility experience",
+            "2,812.4 Attack experience",
+            "2,812.4 Crafting experience",
+            "2,812.4 Defence experience",
+            "2,812.4 Fishing experience",
+            "2,812.4 Fletching experience",
+            "2,812.4 Hitpoints experience",
+            "2,812.4 Strength experience",
+            "2,812.4 Thieving experience",
+            "2,812.4 Woodcutting experience",
+            "Access to the islands of Miscellania, Etceteria, Neitiznot, and Jatizso along with access to the facilities in Rellekka.",
+            "Ability to wear the Fremennik warrior, berserker, archer, and farseer helms",
+            "Ability to have Fossegrimen create the enchanted lyre(i)",
+            "Jarvald will charge no fee for travelling to Waterbirth Island"
+        ]
     },
     {
         "start": "Speak with Larrissa, who is outside the Lighthouse, north of Barbarian Outpost. ",
@@ -1549,7 +1943,15 @@
                 "Means to deal damage with air, water, earth and fire spells"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "4,662.5 Magic experience",
+            "4,662.5 Strength experience",
+            "4,662.5 Ranged experience",
+            "A damaged book of your choice which, when complete, will become: a Holy book (Saradomin), an Unholy book (Zamorak), or a Book of balance (Guthix).\nFurther damaged books can be purchased from Jossik for 5,000 coins each, even if you have not filled your other book(s).",
+            "Further damaged books can be purchased from Jossik for 5,000 coins each, even if you have not filled your other book(s).",
+            "Access to the Lighthouse general store and the Dagannoth caves underneath. (There are level 74 and 92 dagannoth. Both use a Ranged attack that has low accuracy, but the level 92 ones will try to use their much more effective Melee attack whenever they can.)"
+        ]
     },
     {
         "start": "Talk to King Vargas in the Miscellania Castle. Take the longboat from Rellekka to access Miscellania. ",
@@ -1578,7 +1980,12 @@
                 "If seeking the Princess: any bow (except composite, ogre, training and magic bows!) you are willing to lose"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Management of Miscellania",
+            "10,000 coins (inside the Miscellania coffers)",
+            "The ability to teleport to Miscellania using a ring of wealth"
+        ]
     },
     {
         "start": "Talk to King Narnode Shareen in the Grand Tree. ",
@@ -1600,7 +2007,15 @@
                 "Monkey bones or corpse from Karamja (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "10,000 Coins",
+            "3 Diamonds",
+            "Speaking to Daero after the quest gives the choice of either, 35,000 experience in Attack and Defence and 20,000 experience in Strength and Hitpoints OR 35,000 experience in Strength and Hitpoints and 20,000 experience in Attack and Defence. The skills you tell Daero you want to focus on will receive 35,000 XP each, and the others 20,000 each. Returning to Ape Atoll after completing the quest no longer requires undergoing Daero's training.",
+            "The ability to buy and wield the Dragon scimitar.",
+            "The ability to turn into a monkey in Ape Atoll & Ardougne Zoo, using the Monkey greegree.",
+            "Full access to Ape Atoll, with exception of the bank and javelin store, which are unlocked after Monkey Madness II."
+        ]
     },
     {
         "start": "Speak to the Zealot at the mines in Morytania on the path to Mort'ton. ",
@@ -1624,7 +2039,13 @@
                 "A chisel (can be acquired during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "22,000 Strength experience",
+            "The ability to make the Salve amulet, which when equipped gives combat bonuses against undead monsters.",
+            "Access to a shortcut to the crystal outcrops",
+            "Access to Tarn's Lair"
+        ]
     },
     {
         "start": "Speak to Ug at the Troll Stronghold. ",
@@ -1650,7 +2071,14 @@
                 "Swamp tar"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "8,000 Agility experience",
+            "4,000 Strength experience",
+            "1 uncut diamond, 2 uncut rubies and 4 uncut emeralds",
+            "A sled (required to complete a hard and an elite clue scroll step)",
+            "Sledding route from Trollweiss Mountain"
+        ]
     },
     {
         "start": "Speak to Vanstrom Klause at the Hair of the Dog tavern in Canifis. ",
@@ -1681,7 +2109,16 @@
                 "10 coins or a ring of charos (a)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "600 Attack experience",
+            "600 Defence experience",
+            "600 Strength experience",
+            "600 Hitpoints experience",
+            "600 Crafting experience",
+            "Access to the Hollows",
+            "Four big bones and two uncut rubies that drop from the skeleton hellhound"
+        ]
     },
     {
         "start": "Read the signpost in the middle of Canifis. ",
@@ -1713,7 +2150,11 @@
                 "1 law & 1 air rune for Telekinetic Grab OR 50 coins"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "1,000 Thieving experience",
+            "The Ring of charos, which allows access to the Werewolf Agility Course, and, when activated during Garden of Tranquillity, reduced cost to many transport links."
+        ]
     },
     {
         "start": "Talk to Islwyn inside the elven woods of Isafdar. ",
@@ -1738,7 +2179,11 @@
                 "Rope"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,000 Strength experience",
+            "Crystal shield or bow with 500 charges"
+        ]
     },
     {
         "start": "Talk to Velorina in Port Phasmatys. ",
@@ -1782,7 +2227,12 @@
                 "Bowl of water (empty bowl can be purchased during quest -- the gold bowl won't work)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,400 Prayer experience",
+            "Free passage into Port Phasmatys",
+            "The Ectophial, which allows direct teleport to the Ectofuntus, is refilled from the Ectofuntus."
+        ]
     },
     {
         "start": "Speak to Yanni Salika in Shilo Village. ",
@@ -1833,7 +2283,14 @@
                 "Sapphire"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "Two experience lamps giving 10,000 experience to any skill of your choice. Skill must be at least level 30.",
+            "A steel key ring",
+            "The ability to make Guthix rest tea",
+            "The ability to craft pot lids",
+            "Access to the gnome glider route to the Feldip Hills"
+        ]
     },
     {
         "start": "Talk to Hamal the Chieftain in the Mountain Camp east of Rellekka. To get in, take the path north of the Golden Apple Tree and use a rope on the rock behind the guard (see below for more details). ",
@@ -1854,7 +2311,13 @@
                 "Gloves (excluding: Slayer, Mystic, Ranger, Moonclan, Lunar, vambraces, and random event apparel)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,000 Prayer experience",
+            "1,000 Attack experience",
+            "The Bearhead",
+            "The ability to pass into the Mountain Camp over the rockslide"
+        ]
     },
     {
         "start": "Speak to Dondakan the Dwarf at the Keldagrim south-west mine. ",
@@ -1893,7 +2356,15 @@
                 "~830 coins (for cart and ferry)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "5,000 Defence experience",
+            "5,000 Mining experience",
+            "5,000 Smithing experience",
+            "A rune pickaxe",
+            "The ability to teleport to Dondakan's rock using a ring of wealth",
+            "You get to keep your gold helmet and can continue using it to fire yourself into the rock to access the Arzinian Mine where there are lots of gold rocks and gold veins, and a nearby dwarf, at the river, banks the player's gold ore for a charge (he keeps 20% of the ores, rounded up, or 10% of the ores if the player has the ring of charos (a))."
+        ]
     },
     {
         "start": "Talk to Ali Morrisane east of the Gem Trader in northern Al Kharid. ",
@@ -1915,7 +2386,17 @@
                 "if you have the snake charm  in your bank already you will need to retrieve it"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "15,000 Thieving experience",
+            "500 coins",
+            "An oak blackjack",
+            "The desert disguise",
+            "A willow blackjack (as a drop from the tough guy)",
+            "An adamant scimitar (as a drop from the bandit champion)",
+            "Access to the Rogue Trader minigame \u2013 Completing this will allow Ali Morrisane to sell blackjacks, various runes, and different clothing from around the Kharidian Desert",
+            "Can now steal from villagers, bandits and Menaphite Thugs"
+        ]
     },
     {
         "start": "Talk to the clay golem in the ruins of Uzer, east of the Shantay Pass in the Kharidian Desert. ",
@@ -1942,7 +2423,13 @@
                 "Means to enter the desert (such as the Shantay pass, Teleport tablets or scrolls, Fairy rings or the Pharaoh's sceptre)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,000 Thieving experience",
+            "1,000 Crafting experience",
+            "2 cut rubies, emeralds, and sapphires (collect these by using a chisel and hammer on the throne)",
+            "Unlock the carpet ride from Shantay Pass to Uzer"
+        ]
     },
     {
         "start": "Speak to the archaeologist at the Bedabin Camp. ",
@@ -2000,7 +2487,16 @@
                 "20-50+ lockpicks or hair clips"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "20,006.9 Magic experience[2]",
+            "The ability to use Ancient Magicks: At any time, you can pray at the altar and change between the standard and Ancient Magicks spellbooks. After traversing the pyramid for the first time, you may enter via the back-door of the pyramid to gain a short cut to the altar. Be warned that changing spellbooks will drain your prayer to 0.",
+            "Ring of visibility: If you ever lose it, you can obtain another one from Rasolo.",
+            "Access to the Curse of the Empty Lord miniquest (only requires the ring of visibility)",
+            "Access to ancient staff: You can also buy one from Eblis for 80,000 coins. If you lose the staff, you will have to kill mummies inside the pyramid, or buy it from other players. It can also be obtained as a rare drop from the Chaos Fanatic, as a rare drop from the Thermonuclear smoke devil or as an uncommon drop from Calvar'ion.",
+            "Access to the Smoke Dungeon, which can be used for various Slayer tasks.",
+            "Ability to talk to Eblis to obtain an ancient signet"
+        ]
     },
     {
         "start": "Speak to the wanderer in the camp west of the Agility Pyramid. ",
@@ -2025,7 +2521,15 @@
                 "Means to enter the desert. (Such as the Shantay pass, Teleport tablets or scrolls, Fairy rings or the Pharaoh's sceptre)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "4,500 Thieving experience",
+            "4,000 Agility experience",
+            "4,000 Woodcutting experience",
+            "Catspeak amulet",
+            "Access to the city of Sophanem",
+            "Unlock the carpet rides from Pollnivneach to Sophanem and Menaphos"
+        ]
     },
     {
         "start": "Talk to Juna, deep inside the Lumbridge Swamp Caves. ",
@@ -2062,7 +2566,11 @@
                 "Rope (if you have not yet entered the Lumbridge Swamp Caves)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,000 Crafting experience",
+            "Ability to play the Tears of Guthix (minigame) once a week"
+        ]
     },
     {
         "start": "Talk to Sigmund in Lumbridge Castle. ",
@@ -2088,7 +2596,14 @@
                 "Light source (Note: Candles, torches and oil lamps can cause swamp gas explosions if going off-route, and need a tinderbox to stay lit)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,000 Mining experience",
+            "The ability to use the Goblin Bow and Goblin Salute emotes",
+            "Access to the Dorgesh-Kaan mine",
+            "A ring of life",
+            "Access to Nardok's Bone Weapon's store where players can purchase the Dorgeshuun crossbow, bone bolts and other bone weapons."
+        ]
     },
     {
         "start": "The Keldagrim mines east of Rellekka and north of the Mountain Camp. Follow the dwarven statues to the underground river. ",
@@ -2128,7 +2643,15 @@
                 "Redberry pie (unless you have previously given Thurgo a pie for free -- outside the The Knight's Sword quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,500 Mining experience",
+            "2,500 Smithing experience",
+            "2,500 Crafting experience",
+            "1,500 Magic experience",
+            "1,500 Thieving experience",
+            "1,500 Firemaking experience"
+        ]
     },
     {
         "start": "Speak to Sir Amik Varze on the 2nd\u00a0floor[UK]3rd\u00a0floor[US] of the White Knights' Castle's western tower in Falador. ",
@@ -2147,7 +2670,15 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,000.5 Prayer experience",
+            "1,000.5 Herblore experience",
+            "1,000.5 Agility experience",
+            "3,000 coins",
+            "Access to initiate armour. You will be given a sallet for free, and you can buy subsequent sallets from Sir Tiffy Cashien for 6,000 coins, the cuisse for 8,000 coins, the hauberk for 10,000 coins, or the full set for 20,000 coins. It is aesthetically similar to white armour, with a gold trim.",
+            "The Gaze of Saradomin - When you die, you will have the option of returning to Falador instead of Lumbridge. Talk to Sir Tiffy Cashien to change your spawn point at any time."
+        ]
     },
     {
         "start": "Talk to Eluned inside the elven woods of Isafdar. ",
@@ -2190,7 +2721,15 @@
                 "7 empty inventory spaces for the Mourner gear"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "40,000 Thieving experience",
+            "25,000 Hitpoints experience",
+            "Access to the Mourner HQ basement and the village of Lletya",
+            "Elf teleport crystal",
+            "The fixed device",
+            "Full mourner clothing"
+        ]
     },
     {
         "start": "Talk to Commander Veldaban in the Dwarven Black Guard headquarters in Keldagrim. ",
@@ -2224,7 +2763,12 @@
                 "A random item from the list below (see list for details)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "5,000 Cooking experience",
+            "5,000 Farming experience",
+            "2 Dwarven stout (m)"
+        ]
     },
     {
         "start": "Speak to Queen Ellamaria in the garden of Varrock Palace. ",
@@ -2260,7 +2804,16 @@
                 "2 ultracompost/supercompost/compost (note: Bottomless compost bucket will not work for these two required composts. The quality of these 2 composts do not matter.)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "5,000 Farming experience",
+            "An activated ring of charos - players can wear the activated ring to charm various NPCs to pay less for certain services, or get choices that are otherwise unavailable.",
+            "An apple tree seed",
+            "An acorn",
+            "5 guam seeds",
+            "4-dose compost potion, which can be used to turn compost into supercompost.",
+            "After the quest, the player can visit the garden and pick 4 fruits from the white tree. They regrow after some time, similar to other fruit bearing trees. Each fruit restores about 8% of energy."
+        ]
     },
     {
         "start": "Talk to Unferth at his house in Burthorpe. ",
@@ -2292,7 +2845,14 @@
                 "Desert robe (obtainable during quest)  or Druid's robe (The desert outfit does not work)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "A Doctor's hat or Nurse hat (you can switch by destroying your hat and requesting a new one from the Apothecary)",
+            "A present containing:\nTwo antique lamps worth 2,500 experience each in skills of your choice over 30\nA Mouse toy (can be used to play with your cat, and functions as a fun weapon at the Emir's Arena)",
+            "Two antique lamps worth 2,500 experience each in skills of your choice over 30",
+            "A Mouse toy (can be used to play with your cat, and functions as a fun weapon at the Emir's Arena)",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Speak to Sir Tiffy Cashien in Falador Park. ",
@@ -2322,7 +2882,11 @@
                 "Light source (Note: Candles, torches and oil lamps can cause swamp gas explosions if going off-route, and need a tinderbox to stay lit)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Slayer experience",
+            "Access to the armoury of the White Knights (White equipment)"
+        ]
     },
     {
         "start": "Speak to Arianwyn in Lletya. ",
@@ -2351,7 +2915,13 @@
                 "Rope"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "60,000 Agility experience",
+            "A crystal trinket, which allows you to enter the Temple of Light again after the quest",
+            "Access to the Death Altar",
+            "Access to Dark Beasts"
+        ]
     },
     {
         "start": "Pirate Pete, at a dock due north of Port Phasmatys. ",
@@ -2397,7 +2967,13 @@
                 "At least 47 prayer points for the Evil spirits part of the quest"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "7,000 Fishing experience",
+            "7,000 Prayer experience",
+            "7,000 Farming experience",
+            "The Holy wrench (while in your inventory, this grants more prayer points when drinking a prayer potion)"
+        ]
     },
     {
         "start": "Speak to Father Reen, south of Al-Kharid bank. ",
@@ -2428,7 +3004,12 @@
                 "Means to enter the desert (such as the Shantay pass, Desert amulet 2, Teleport tablets or scrolls, Fairy rings or the Pharaoh's sceptre)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,000 experience in any combat skill other than Prayer.",
+            "Silverlight turns into the Darklight sword - it has a special attack and is even more powerful against demons. It costs slightly more to replace.",
+            "Six cut gems: two sapphires, two rubies and two emeralds, if you use a hammer and chisel on the demon's throne and had not yet removed them during The Golem."
+        ]
     },
     {
         "start": "Talk to Jorral in the outpost north-west of West Ardougne. ",
@@ -2454,7 +3035,16 @@
                 "4,100 gold for a Charter ship to Port Phasmatys (cheaper depending upon where you travel from and if you use ring of charos)."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "1,000 Crafting experience",
+            "1,000 Prayer experience",
+            "750 coins",
+            "Enchanted key, allowing you to go on your own treasure digs until it disappears",
+            "Access to the museum in the outpost",
+            "Ability to complete master clue hot/cold Treasure Trails.",
+            "Ability to claim 5 Kudos and an antique lamp for 1,000 experience (in any skill over level 20) by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Talk to Gertrude west of Varrock. ",
@@ -2487,7 +3077,15 @@
                 "Snake charm (obtained during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "4,500 Thieving experience",
+            "A rat pole",
+            "The ability to train overgrown cats into wily and lazy cats.",
+            "The ability to name your wily or lazy cat (up to six letters long).",
+            "Access to the Rat Pits.",
+            "The ability to use the Grouping teleport to the rat pits in Port Sarim, Ardougne, Varrock, and Keldagrim."
+        ]
     },
     {
         "start": "Talk to Awusah, Mayor of Nardah. ",
@@ -2529,7 +3127,14 @@
                 "Bow and arrows (can be obtained during the quest); a crystal bow will also work"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "8,000 Prayer experience",
+            "1,000 Thieving experience",
+            "1,000 Magic experience",
+            "Access to Nardah's fountain for water and the shrine: Praying at the statuette will fill your Hitpoints, temporarily boost it, cure poison and venom, restore your prayer points, restore your run energy and your special attack.",
+            "Robe of elidinis"
+        ]
     },
     {
         "start": "Talk to the monk outside Paterdomus, next to the River Salve. ",
@@ -2571,7 +3176,12 @@
                 "(You will lose all 3 items!) unless a colossal pouch is used."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Fletching experience",
+            "5,000 Runecraft experience",
+            "6,500 Smithing experience"
+        ]
     },
     {
         "start": "Talk to Bert in Yanille, near the sand pit. ",
@@ -2600,7 +3210,14 @@
                 "Bucket of sand (obtainable during quest if you bring a bucket)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,000 Thieving experience",
+            "9,000 Crafting experience",
+            "Ability to buy pink dye from Betty",
+            "A secret reward from Bert - He simply loves sand, and wasn't in the job for the money. He will ship 84 buckets of sand to your bank if you talk to him after the quest. This can be done once per day (UTC). Asking Bert to take sand to your bank is also an Ardougne Medium task.",
+            "Access to the Wizards' Guild rune store"
+        ]
     },
     {
         "start": "Talk to Lazim just north-east of the Desert Quarry. ",
@@ -2653,7 +3270,15 @@
                 "Enough remaining Prayer points to cast Protect from Melee for about five seconds"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "7,000 Crafting experience",
+            "7,000 Mining experience",
+            "7,000 Firemaking experience",
+            "7,000 Magic experience",
+            "Camulet, which allows you to talk to camels and teleport to the temple four times. It can be recharged by using camel dung on it. You can pay Lazim 1 million gold pieces to give it unlimited charges.",
+            "Camel mask (Use a piece of soft clay on the pedestal with the globes on it to make.)"
+        ]
     },
     {
         "start": "Talk to Bill Teach at The Green Ghost inn in Port Phasmatys. ",
@@ -2693,7 +3318,18 @@
                 "You don't need to bring any items yourself. However, make sure that you have at least 11 open inventory spaces for items you will obtain during the quest. A higher amount, like 14 open spaces, is recommended however."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "7,000 Crafting experience",
+            "7,000 Smithing experience",
+            "7,000 Agility experience",
+            "10,000 coins (only if you speak to Bill Teach after the quest)",
+            "Access to Mos Le'Harmless",
+            "Access to kill cave horrors",
+            "The Book o' piracy",
+            "Charter ship prices are halved",
+            "Ability to play the Trouble Brewing minigame"
+        ]
     },
     {
         "start": "Speak to Martin the Master Gardener by the pig pen in Draynor Village. ",
@@ -2719,7 +3355,13 @@
                 "A combination of three items picked for you at random, see list of potential items."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "Magic secateurs (increases crop harvests by 10% when Farming)",
+            "3,500 Farming experience",
+            "2,000 Attack experience",
+            "1,000 Magic experience"
+        ]
     },
     {
         "start": "Speak to the Cook in the kitchen of Lumbridge Castle. ",
@@ -2874,7 +3516,25 @@
                 "Rope"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "10 Quest points",
+            "An experience lamp, which grants 20,000 experience to any skill above 50 (can be banked for later use)",
+            "Access to the following areas:\nMogre Camp\nEvil Chicken's Lair",
+            "Mogre Camp",
+            "Evil Chicken's Lair",
+            "Ability to dive for crabs",
+            "Ability to cook crab meat",
+            "Ability to catch Hell-Rats",
+            "Ability to own a hellcat",
+            "Ability to add coloured spices to stews of any sort",
+            "Ability to use the boat trip to travel between Karamja and Feldip Hills",
+            "Ape Atoll Teleport spell",
+            "Full access to Culinaromancer's Chest\nAccess to Kitchen weaponry\nAccess to the banking chest (under Lumbridge Castle)\nAccess to a food store in the Culinaromancer's Chest\nAccess to buy Barrows Gloves",
+            "Access to Kitchen weaponry",
+            "Access to the banking chest (under Lumbridge Castle)",
+            "Access to a food store in the Culinaromancer's Chest",
+            "Access to buy Barrows Gloves"
+        ]
     },
     {
         "start": "Go to Canifis and down the ladder behind the pub there, through the secret wall and squeeze past the stalagmite on the east side of the cave. Speak to Veliaf Hurtz. ",
@@ -2944,7 +3604,18 @@
                 "15 cooked salmon, snails, slimy eels, or stew"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2,000 Attack experience",
+            "2,000 Strength experience",
+            "2,000 Crafting experience",
+            "2,000 Defence experience",
+            "Access to Burgh de Rott",
+            "Access to the Temple Trekking minigame",
+            "A Gadderhammer from defeating Gadderanks",
+            "The ability to make the Rod of Ivandis",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum."
+        ]
     },
     {
         "start": "Go east of Varrock, through the gate by the Earth Altar and just south of there, speak to Launa. ",
@@ -2961,7 +3632,13 @@
                 "Some form of a weapon"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "500 Defence experience",
+            "500 Hitpoints experience",
+            "500 Coins",
+            "Access to Tolna's rift for combat training"
+        ]
     },
     {
         "start": "Speak to the Odd Old Man, located at the end of the northern path in central Silvarea. ",
@@ -2981,7 +3658,11 @@
                 "Light source (a lantern is highly preferred)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "500 Cooking experience",
+            "500 Prayer experience"
+        ]
     },
     {
         "start": "The Piscatoris Fishing Colony. It can be reached via a boat trip from the river to the west of the Tree Gnome Stronghold. ",
@@ -3056,7 +3737,19 @@
                 "A brown apron (given to you during the quest if you do not have one)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "15,000 Magic experience",
+            "10,000 Prayer experience",
+            "50,000 Fishing experience",
+            "25,000 coins",
+            "Access to the Piscatoris Fishing Colony\nThe ability to fish monkfish\nThe ability to use Skeleton Mages for training",
+            "The ability to fish monkfish",
+            "The ability to use Skeleton Mages for training",
+            "Access to the following items from Malignius Mortifer upon request:\nA brown apron\nBone seeds (requires an airtight pot)",
+            "A brown apron",
+            "Bone seeds (requires an airtight pot)"
+        ]
     },
     {
         "start": "Go to Miscellania and speak to Advisor Ghrim in the castle. ",
@@ -3088,7 +3781,14 @@
                 "1 plank (obtainable from a spawn during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "20,000 Coins",
+            "5,000 Agility experience",
+            "5,000 Slayer experience",
+            "5,000 Hitpoints experience",
+            "Enhanced rewards from Managing Miscellania"
+        ]
     },
     {
         "start": "Speak to Mistag in the Dorgesh-Kaan mine. ",
@@ -3110,7 +3810,11 @@
                 "Pickaxe (if not using a games necklace to teleport to Tears of Guthix (minigame))"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 Thieving experience",
+            "2,000 Ranged experience"
+        ]
     },
     {
         "start": "Speak to Martin the Master Gardener by the pig pen in Draynor Village. ",
@@ -3135,7 +3839,14 @@
                 "Nuff's certificate (obtained during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "3,500 Herblore experience",
+            "2,500 Thieving experience",
+            "An antique lamp granting 2,500 experience in any skill over level 30",
+            "Access to the fairy rings network",
+            "Access to Fairy Fixit's Fairy Enchantment shop"
+        ]
     },
     {
         "start": "Speak to Lokar Searunner at the westernmost dock of Rellekka. ",
@@ -3204,7 +3915,16 @@
                 "Combat equipment"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "5,000 Magic experience",
+            "5,000 Runecraft experience",
+            "A seal of passage",
+            "Access to Lunar Isle and Lunar equipment",
+            "Access to the Lunar spellbook",
+            "Access to the Astral Altar",
+            "50 Astral runes"
+        ]
     },
     {
         "start": "Speak to Brimstail in his cave south-west side of the Tree Gnome Stronghold, directly west of the bank near the Stronghold Slayer Cave. ",
@@ -3234,7 +3954,15 @@
                 "Pestle and mortar"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "12,000 Magic experience",
+            "2,500 Woodcutting experience",
+            "6,000 Runecraft experience",
+            "250 Construction experience",
+            "A crystal saw seed \u2014 Either take it to Ilfeen in Tirannwn or use it on the singing bowl by Brimstail to get an enchanted crystal saw. It allows items (that require a saw) to be made three levels above your Construction. It has a limited number of charges (28), but the recharge is free - use the bowl again.",
+            "Using the crystal seed with the singing bowl and getting a crystal saw is a medium task in the Western Provinces Area Achievement Diary."
+        ]
     },
     {
         "start": "Go to Burgh de Rott and into the basement of the inn there and speak to Veliaf Hurtz. ",
@@ -3281,7 +4009,13 @@
                 "Means to cast Telekinetic Grab (air and law rune -- both obtainable during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "7,000 Agility experience",
+            "6,000 Thieving experience",
+            "2,000 Construction experience",
+            "Tome of experience, granting 2,000 experience to any three skills of the player's choosing (level 30 or over). Can be the same skill."
+        ]
     },
     {
         "start": "Speak to Sir Tiffy Cashien in Falador Park. ",
@@ -3335,7 +4069,15 @@
                 "Access to Guardians of the Rift"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,500 Crafting experience",
+            "3,500 Runecraft experience",
+            "3,500 Thieving experience",
+            "Promotion to Proselyte among the Temple Knights. This means you can buy and wear Proselyte armour with a greater Prayer bonus than Initiate. You can buy each piece individually, or buy the armour pack which, when opened, gives you the plate, helm, and legs/tassets all at once. The pack costs 25,000 coins\nBuying the upgraded armour in separate pieces costs more: the helm costs 8,000 coins, the platelegs and plateskirt cost 10,000 coins, and the platebody costs 12,000 coins for a total of 30,000 coins\nRequired for the hard Falador Diary",
+            "Buying the upgraded armour in separate pieces costs more: the helm costs 8,000 coins, the platelegs and plateskirt cost 10,000 coins, and the platebody costs 12,000 coins for a total of 30,000 coins",
+            "Required for the hard Falador Diary"
+        ]
     },
     {
         "start": "Search the bookcases in the Exam Centre's library and read the beaten book ",
@@ -3369,7 +4111,13 @@
                 "The battered key from Elemental Workshop I"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "7,500 Smithing experience",
+            "7,500 Crafting experience",
+            "The ability to make and use elemental mind equipment\nTo make a mind shield: have the slashed book from the Elemental Workshop I quest in your inventory, then smith a primed mind bar into a mind shield",
+            "To make a mind shield: have the slashed book from the Elemental Workshop I quest in your inventory, then smith a primed mind bar into a mind shield"
+        ]
     },
     {
         "start": "The kitchen, deep in the Troll Stronghold. Talk to Burntmeat. ",
@@ -3408,7 +4156,14 @@
                 "Plant cure"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,000 Herblore experience",
+            "5,000 Farming experience\n45\u00d77 additional Farming experience while My Arm harvests his crop.",
+            "45\u00d77 additional Farming experience while My Arm harvests his crop.",
+            "Access to a disease-free herb patch on top of the Troll Stronghold. This patch does not allow growing of regular Goutweed.",
+            "29 Burnt meat"
+        ]
     },
     {
         "start": "Speak to Auguste on the island of Entrana. ",
@@ -3450,7 +4205,17 @@
                 "A spade (only if planting the tree) (can also be exchanged from a Tool Leprechaun if placed there before)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 Crafting experience",
+            "3,000 Farming experience",
+            "1,500 Woodcutting experience",
+            "4,000 Firemaking experience",
+            "The Bomber jacket and cap\nGnome goggles from the Gnome Restaurant minigame can be combined with the bomber cap by talking with Auguste",
+            "Gnome goggles from the Gnome Restaurant minigame can be combined with the bomber cap by talking with Auguste",
+            "Access to the balloon transport system",
+            "Ability to make origami balloons"
+        ]
     },
     {
         "start": "Speak to Charlie, one of the keepers at Ardougne Zoo. ",
@@ -3468,7 +4233,14 @@
                 "50 Coins"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "2500 Hunter experience",
+            "Ability to use box traps",
+            "Access to the Eagle transport system",
+            "Captured ferrets can be used to flush rabbits from their holes, allowing them to be caught in rabbit snares",
+            "A box trap"
+        ]
     },
     {
         "start": "Speak to Ava in Draynor Manor. ",
@@ -3516,7 +4288,15 @@
                 "Polished buttons"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,000 Crafting experience",
+            "1,000 Fletching experience",
+            "1,000 Slayer experience",
+            "2,500 Woodcutting experience",
+            "Ava's attractor if your Ranged level is less than 50, or Ava's accumulator if your Ranged level is 50 or higher",
+            "The ability to trade with Ava and purchase her devices"
+        ]
     },
     {
         "start": "Speak to the High Priest of Icthlarin in Sophanem. ",
@@ -3537,7 +4317,14 @@
                 "A tinderbox (unless you have the Kandarin headgear, Firemaking cape, Abyssal lantern or a bruma torch). If you don't have one, the Sophanem guard will sell you one for 50 coins."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "7,000 Thieving experience",
+            "Combat lamp giving two wishes granting 7,000 experience to Attack, Strength, Defence, Hitpoints, Ranged, or Magic",
+            "The Keris dagger",
+            "Access to Sophanem's bank",
+            "The music track Back to Life"
+        ]
     },
     {
         "start": "Speak to Larry at Ardougne Zoo. ",
@@ -3571,7 +4358,15 @@
                 "Leather"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 Crafting experience",
+            "5,000 Agility experience",
+            "1,500 Construction experience",
+            "The ability to make the penguin suit. To enter the suit again, you must talk to Larry again at the zoo, pier, Iceberg, or Lumbridge sheep pen.",
+            "The ability to use the Penguin agility course",
+            "Players can also steal more cowbells and make more bongos. The cowbells or the bongos can only be played in a penguin suit."
+        ]
     },
     {
         "start": "Speak to Mord Gunnars at the northernmost dock of Rellekka. ",
@@ -3598,7 +4393,22 @@
                 "silly jester outfit (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Construction experience",
+            "5,000 Crafting experience",
+            "10,000 Woodcutting experience",
+            "Two lots of 10,000 Combat experience (choose between Strength, Attack, Defence or Hitpoints).",
+            "A Fremennik royal helm known as the helm of Neitiznot, which is the equivalent of a berserker helm with a +3 Prayer bonus, slightly better Magic and crush Defence, and no negative bonuses. If a player loses the helm, they can talk to Mawnis Burowgar to buy another one for 50,000 coins.",
+            "Access to arctic pine trees.",
+            "Access to an island with a runite rock north-east of Neitiznot, which also has seven (7) coal rocks nearby.",
+            "Access to the Jatizso mine, which contains up to adamantite rocks.",
+            "Around 20,000 coins in assorted rewards during quest.",
+            "The banks in Neitiznot and Jatizso are close to water, range, furnace, fishing spots, mining ores; a spinning wheel is also nearby.",
+            "If the jester outfit is lost, a player can retrieve another one from the chest behind King Gjuki Sorvott IV's throne.",
+            "Learn the ability to create yak-hide armour and Neitiznot shields.",
+            "The Contraband Yak Produce shop is available on Jatizso if a player refunds the 5,000 coin tax to Vanligga Gastfrihet, who is north of the king."
+        ]
     },
     {
         "start": "Talk to Brother Tranquility in Mos Le'Harmless. ",
@@ -3648,7 +4458,16 @@
                 "Ring of charos (if lost, can be re-obtained during quest by pickpocketing Fenkenstrain)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "6,000 Prayer experience",
+            "3,000 Crafting experience",
+            "2,000 Construction experience",
+            "Blessed lamp ( 5,000 experience in a chosen skill above level 30 and can be placed in your bank)",
+            "Barrelchest anchor (To repair your barrelchest anchor, return to Mos Le'Harmless and make sure you have a book o' piracy in your inventory; then, go to the docks south of the bank and talk to \"Smith.\" He can fix your anchor for 230,000 coins.)",
+            "Prayer book",
+            "Ability to cast Harmony Island Teleport with at least 60% Arceuus favour"
+        ]
     },
     {
         "start": "Talk to Rat Burgiss south of Varrock. ",
@@ -3674,7 +4493,15 @@
                 "Access to the Chaos Altar (Chaos talisman or tiara, or travelling through the Abyss or Temple of the Eye) (Catalytic talisman and Catalytic tiara will NOT work)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "8,000 Runecraft experience",
+            "2,000 Defence experience",
+            "The Beacon ring",
+            "Access to a shortcut to the Chaos Altar",
+            "Completing this quest awards the player with 5 Kudos which can be claimed by talking to Historian Minas in the Varrock Museum, while holding the Dagon'hai history book.",
+            "5 Battlestaves in stock of Zaff's Superior Staffs! store (after defeating King Roald - the quest doesn't need to be completed)"
+        ]
     },
     {
         "start": "Speak to Olaf Hradson by the isthmus leading to the Rellekka Hunter area. ",
@@ -3707,7 +4534,14 @@
                 "4 free inventory slots (10 if not bringing your own ropes)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "12,000 Defence experience",
+            "20,000 coins",
+            "4 cut rubies",
+            "Access to a cave where you can fight brine rats.",
+            "A piece of parchment telling you of other shipwrecks with more treasure. (This extra treasure is currently not available in the game)"
+        ]
     },
     {
         "start": "Go to Ur-tag's house in Dorgesh-Kaan. (Can be reached either via Kazgar from the Lumbridge cellar or via Dartog from the water mill by telling either NPC to take the player to the mines. Afterwards, go south past the sword icon and enter the door.) ",
@@ -3743,7 +4577,14 @@
                 "Magic or Ranged gear for enemy fight (cannot use Melee on them)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,000 Mining experience",
+            "3,000 Prayer experience",
+            "The ancient mace",
+            "The ability to buy Goblin Village teleport spheres",
+            "Free access to the Dorgesh-Kaan\u2013Keldagrim train system"
+        ]
     },
     {
         "start": "Talk to the fallen man in the small cave in the Lunar Isle mine. ",
@@ -3777,7 +4618,14 @@
                 "A good weapon (trident of the seas recommended because they have no magic defence), good armour, good food such as sharks, and super potion sets."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "15,000 Hitpoints experience",
+            "10,000 Magic experience",
+            "7 new spells added to your Lunar spells book (Monster Examine, Humidify, Hunter Kit, Stat Spy, Dream, Plank Make, Spellbook Swap)",
+            "A dreamy lamp, which awards 15,000 experience in a combat skill of a player's choosing, apart from Attack and Prayer.",
+            "'Birds-Eye' Jack will now allow you to use the bank without a seal of passage equipped or in your inventory."
+        ]
     },
     {
         "start": "Talk to Sylas in Taverley, just south of the house portal. ",
@@ -3807,7 +4655,16 @@
                 "Good armour and a weapon (Ranged or Magic equipment recommended if you have low melee levels)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,000 Farming experience",
+            "15,000 Herblore experience",
+            "5,000 Hitpoints experience",
+            "60,000 Woodcutting experience",
+            "25,000 Agility experience",
+            "25,000 Thieving experience",
+            "Dwarven helmet (equip this helmet in the Dwarven Mines to complete a Hard Falador task)"
+        ]
     },
     {
         "start": "Talk to the Gossip, outside Sinclair Mansion. ",
@@ -3854,7 +4711,14 @@
                 "Animate rock scroll (obtainable during the quest). Note: if you have it in your bank, either destroy it or take it with you. You won't be able to receive another from Wizard Cromperty otherwise."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "33,000 experience",
+            "5,000 experience",
+            "Antique lamp granting 5,000 experience to any skill level 50 or above",
+            "Access to the Knight Waves Training Grounds",
+            "The ability to use the Chivalry and Piety prayers, with level 60 and 70 Prayer, respectively, after completion of Knight Waves Training Grounds"
+        ]
     },
     {
         "start": "Talk to Mosol Rei outside of Shilo Village in the south part of Karamja. ",
@@ -3888,7 +4752,14 @@
                 "Bones can be obtained from the Chicken (Level 3) south of Trufitus past the rotten fence. Respawn time Aprox. 20sec."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "3,875 Crafting experience",
+            "Access to Shilo Village",
+            "Ability to quick travel to Shilo Village using the cart near the Brimhaven docks",
+            "After completing the quest, you can sell every item you obtained during the quest to Yanni Salika in Shilo Village for 2,000 \u2014 100 each for the stone-plaque, tattered scroll, crumpled scroll, Bervirius notes and the bone key, 500 for the locating crystal, and 1000 for the beads of the dead.",
+            "Ability to mine the gem rocks in Shilo Village mine."
+        ]
     },
     {
         "start": "Talk to Elena in her house in East Ardougne. ",
@@ -3909,7 +4780,13 @@
                 "Gas mask (can be obtained for free from the cupboard in Edmond and Alrena's house in East Ardougne)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "3 Quest points",
+            "1,250 Thieving experience",
+            "Use of the Combat Training Camp north of the city. Players can attack a total of six training dummies in the camp for 50 attack experience each.",
+            "The ability to travel freely through the West Ardougne gate.",
+            "The ability to use the West Ardougne Teleport in the Arceuus spellbook and teletab."
+        ]
     },
     {
         "start": "Talk to Effigy at the Tower of Life just east of the Ardougne Monastery. ",
@@ -3927,7 +4804,14 @@
                 "Beer (must be a regular beer - other beers do not work.)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "1,000 Construction experience",
+            "500 Crafting experience",
+            "500 Thieving experience",
+            "Access to Creature Creation",
+            "Builder's costume"
+        ]
     },
     {
         "start": "Speak to the Odd Old Man, located at the end of the northern path in central Silvarea. ",
@@ -3973,7 +4857,12 @@
                 "Mirror shield or V's shield (unless using a workaround - see guide for how to get around using this)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Prayer experience",
+            "Bonesack",
+            "Ram skull helm"
+        ]
     },
     {
         "start": "Speak to Grubfoot in the Dorgesh-Kaan mine. ",
@@ -4015,7 +4904,17 @@
                 "5 coins"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "8,000 Agility experience",
+            "8,000 Fishing experience",
+            "8,000 Thieving experience",
+            "8,000 Herblore experience",
+            "Access to the Goblin Temple (with an altar to recharge prayer points).",
+            "Access to Yu'biusk, using fairy ring code BLQ.",
+            "Ability to purchase plain of mud spheres that transports you to the Goblin Cave.",
+            "Ability to make goblin potions."
+        ]
     },
     {
         "start": "Speak to Grish in Jiggig, just south of Castle Wars. ",
@@ -4058,7 +4957,18 @@
                 "Feathers (4 per 1 brutal arrow)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3 ourg bones",
+            "2 zogre bones",
+            "2,000 Fletching experience",
+            "2,000 Ranged experience",
+            "2,000 Herblore experience",
+            "Ability to make Relicym's balm",
+            "Ability to fletch comp ogre bows and brutal arrows",
+            "Ability to wear inoculation bracelets",
+            "Give a 2-, 3-, or 4-dose Relicym's balm to Uglug to gain access to ~ Uglug's stuffsies ~"
+        ]
     },
     {
         "start": "Talk to King Narnode Shareen in the Grand Tree. (You must have all the requirements to start the quest). ",
@@ -4112,7 +5022,27 @@
                 "The Translation book from The Grand Tree. If you have lost it a replacement can be obtained from King Narnode during the quest."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "80,000 Slayer experience",
+            "60,000 Agility experience",
+            "50,000 Thieving experience",
+            "50,000 Hunter experience",
+            "2x 50,000 experience rewards from Duke in your choice of Magic, Ranged, Attack, Defence, Strength or Hitpoints. Found on the hill east of main gate of Ape Atoll. (Walk up west hill, and climb the ladder to reach the east hill).",
+            "A Royal seed pod, which provides unlimited teleports to the Grand Tree (up to level 30 Wilderness).",
+            "Access to the Crash Site Cavern containing demonic gorillas.",
+            "Access to a new maniacal monkey hunting area where Glough's laboratory used to be in Kruk's Dungeon.",
+            "Access to Ape Atoll bank and Oobapohk's Javelin Store.",
+            "Access to new glider spot directly to Ape Atoll.",
+            "The ability to communicate with monkeys without the monkeyspeak amulet.",
+            "All NPCs on the surface of Ape Atoll will be non-aggressive without requiring the use of Monkey greegrees.",
+            "Ability to wield the heavy ballista.",
+            "Various dragons will now drop dragon javelin heads.",
+            "The ability to reclaim lost Greegrees from Zooknock in his Gnome Stronghold house (no supplies required).",
+            "A Monkey can be found in one of the crates at the Crash Site. It is purely cosmetic and can be equipped in the cape slot.",
+            "Bobawu will now track your laps of the Ape Atoll Agility Course, with you being able to transform your monkey into other variants upon completing a number of laps",
+            "The ability to re-fight Glough by gazing into the Burning brazier in Zooknock's house."
+        ]
     },
     {
         "start": "Speak to Veos at Port Piscarilius. ",
@@ -4130,7 +5060,14 @@
                 "Feather (a stripy or coloured feather can also be used, but a magic gold feather cannot)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Two antique lamps which provide 500 experience each in a skill of the player's choosing",
+            "Kourend favour certificate. Reading it grants 20% favour towards a city of your choosing\nA good choice for the favour reward (if not at 30% already) is Port Piscarilius since the first 30% is both semi-expensive, and time consuming\nPutting it into Lovakengj is also not a bad choice as getting 20% needed for The Forsaken Tower takes around 50 minutes when mining Volcanic sulphur.",
+            "A good choice for the favour reward (if not at 30% already) is Port Piscarilius since the first 30% is both semi-expensive, and time consuming",
+            "Putting it into Lovakengj is also not a bad choice as getting 20% needed for The Forsaken Tower takes around 50 minutes when mining Volcanic sulphur.",
+            "Kharedst's memoirs"
+        ]
     },
     {
         "start": "Speak to Tomas Lawry outside the Port Piscarilius bank. ",
@@ -4150,7 +5087,13 @@
                 "Stew (Cooking ingredients can be obtained during quest for 6 coins. Requires 25 cooking) Or bought from Forester's Arms bartender in Seer's Village for 20gp."
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 Thieving experience",
+            "2,000 coins",
+            "Piscarilius favour certificate. Reading it grants 10% Piscarilius favour.",
+            "A page for Kharedst's memoirs, 'The fisher's flute.' It teleports players to the centre of Port Piscarilius."
+        ]
     },
     {
         "start": "Talk to Curator Haig Halen in the Varrock Museum. ",
@@ -4169,7 +5112,11 @@
                 "Marrentill potion (unf)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Access to Fossil Island - to disembark the boat upon arrival at Fossil Island, speak to the Junior Navigator.",
+            "Fossil island note book"
+        ]
     },
     {
         "start": "Speak to Alec Kincade outside the Myths' Guild. ",
@@ -4265,7 +5212,31 @@
                 "Runes for 3 Fire Wave spells or 3 Fire Surge spells"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "5 Quest points",
+            "80,000 Smithing experience",
+            "60,000 Mining experience",
+            "50,000 Agility experience",
+            "50,000 Thieving experience",
+            "Ability to speak to cats without the Catspeak amulet",
+            "Access to the Myths' Guild\nAccess to the pettable dog\nAbility to make super antifire potions by speaking to Primula\n4x 25,000 experience in Magic, Ranged, Strength, Attack, Defence or Hitpoints by speaking to Ellen\nAccess to Fountain of Uhld where dragonstone jewellery (excluding the ring of wealth) can be recharged\nAccess to the Pool of Dreams where players can refight Galvek or rewatch cutscenes from the quest\nAccess to the Wrath Altar\nAccess to the shop to buy the mythical cape",
+            "Access to the pettable dog",
+            "Ability to make super antifire potions by speaking to Primula",
+            "4x 25,000 experience in Magic, Ranged, Strength, Attack, Defence or Hitpoints by speaking to Ellen",
+            "Access to Fountain of Uhld where dragonstone jewellery (excluding the ring of wealth) can be recharged",
+            "Access to the Pool of Dreams where players can refight Galvek or rewatch cutscenes from the quest",
+            "Access to the Wrath Altar",
+            "Access to the shop to buy the mythical cape",
+            "Access to adamant and rune dragons in the Lithkren Vault",
+            "Access to a stronger version of Vorkath on Ungael",
+            "Ability to reforge the dragon platebody and kiteshield",
+            "Ability to have a rune dragon as a Treasure Room guardian (requiring 99 Construction and 25,000,000 coins)",
+            "Ability to create an Ava's assembler by bringing Vorkath's head, 75 Mithril arrows, and 4,999 coins (or Ava's accumulator) to Ava in Draynor Manor",
+            "Ability to craft Ferocious gloves from Hydra leather in the Lithkren Vault (requires a hammer)",
+            "Ability to construct Mythical cape (mounted) in your POH",
+            "Ability to go back through the ancient doors on Lithkren and use your Digsite pendant on the Strange Machine north of the dragons. This will allow you to teleport there.",
+            "Locator orb"
+        ]
     },
     {
         "start": "Speak to Lord Kandur Hosidius at his home in Hosidius, north-west of the Vinery. ",
@@ -4284,7 +5255,13 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "1,500 Agility experience",
+            "4,000 coins",
+            "Hosidius favour certificate. Reading it grants 10% Hosidius favour.",
+            "A page for Kharedst's memoirs, 'Lunch by the lancalliums'. It teleports players to just east of the Hosidius Kitchen."
+        ]
     },
     {
         "start": "The Cook in Lumbridge Castle's kitchen.",
@@ -4313,7 +5290,7 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
+            "1 Quest point",
             "The invitation to the feast of a lifetime!",
             "Access to the Culinaromancer's Chest (after watching the cut scene in the feast room)."
         ]
@@ -4345,10 +5322,10 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "1,000  Cooking exp",
-            "1,000  Farming exp",
-            "1,000  Crafting exp",
+            "1 Quest point",
+            "1,000 Cooking experience",
+            "1,000 Farming experience",
+            "1,000 Crafting experience",
             "Further access to the Culinaromancer's Chest."
         ]
     },
@@ -4378,9 +5355,9 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "1,000  Slayer exp",
-            "1,000  Cooking exp",
+            "1 Quest point",
+            "1,000 Slayer experience",
+            "1,000 Cooking experience",
             "Further access to the Culinaromancer's Chest",
             "Ability to obtain additional Dwarven Rock Cakes from Rohak for either 100 coins or the raw ingredients"
         ]
@@ -4415,8 +5392,8 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "7,000  Cooking exp",
+            "1 Quest point",
+            "7,000 Cooking experience",
             "The ability to catch hellrats to get a Hellcat",
             "The ability to have your cat fight Hell-Rat Behemoths",
             "The ability to add coloured spices to stew by catching hellrats (Spicy stews can boost and lower certain stats)",
@@ -4454,11 +5431,11 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "1,000  Cooking exp",
-            "1,000  Crafting exp",
-            "1,000  Fishing exp",
-            "1,000  Smithing exp",
+            "1 Quest point",
+            "1,000 Cooking experience",
+            "1,000 Crafting experience",
+            "1,000 Fishing experience",
+            "1,000 Smithing experience",
             "The ability to go diving and fight crabs (you need your diving apparatus)",
             "The ability to cook crab meat (heals 10 hitpoints in 5 bites)",
             "The ability to kill crabs to get their shells and claws, which can be made into a helmet and gloves with a chisel",
@@ -4507,9 +5484,9 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "2,500  Cooking exp",
-            "2,500  Magic exp",
+            "1 Quest point",
+            "2,500 Cooking experience",
+            "2,500 Magic experience",
             "Further access to the Culinaromancer's Chest"
         ]
     },
@@ -4556,9 +5533,9 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "4,000  Cooking exp",
-            "4,000  Hitpoints exp",
+            "1 Quest point",
+            "4,000 Cooking experience",
+            "4,000 Hitpoints experience",
             "Access to the Evil Chicken's Lair, where you can fight black dragons (The fowl beast himself has moved on to other things.)",
             "Further access to the Culinaromancer's Chest."
         ]
@@ -4598,9 +5575,9 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "10,000  Cooking exp",
-            "10,000  Agility exp",
+            "1 Quest point",
+            "10,000 Cooking experience",
+            "10,000 Agility experience",
             "Ape Atoll Teleport spell",
             "Further access to the Culinaromancer's Chest"
         ]
@@ -4644,11 +5621,11 @@
             ]
         },
         "rewards": [
-            "1  Quest point",
-            "1,500  Woodcutting exp",
-            "1,500  Cooking exp",
-            "1,500  Crafting exp",
-            "1,500  Ranged exp",
+            "1 Quest point",
+            "1,500 Woodcutting experience",
+            "1,500 Cooking experience",
+            "1,500 Crafting experience",
+            "1,500 Ranged experience",
             "The ability to use the boat trip to travel between Karamja and the Feldip Hills (you must pay a fee of chompies or exotic herbs)",
             "Further access to the Culinaromancer's Chest"
         ]
@@ -4700,7 +5677,12 @@
                 "Weapons and armour"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "Ivandis flail - A weapon that can damage the vyrewatch",
+            "Drakan's medallion - An amulet that gives the player unlimited teleports to the Theatre of Blood",
+            "Tome of experience, granting 2,500 experience to any three skills of the player's choosing (level 35 or over). Can be the same skill."
+        ]
     },
     {
         "start": "Speak to Phileas Rimor in his house west of The Cloak and Stagger tavern in Shayzien. ",
@@ -4734,7 +5716,14 @@
                 "Rope"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "8,000 coins",
+            "Shayzien favour certificate. Reading it grants 10% Shayzien favour.",
+            "A page for Kharedst's memoirs, 'History and hearsay.' It teleports players to the Graveyard of Heroes south-west of the Shayzien bank.",
+            "Ability to fight the Corrupt Lizardman in the Nightmare Zone.",
+            "3 Xerician fabric (dropped by Corrupt Lizardman)"
+        ]
     },
     {
         "start": "Talk to Burntmeat in the Troll Stronghold's kitchen. ",
@@ -4788,7 +5777,17 @@
                 "Climbing boots (if not using Trollheim teleports)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "10,000 Construction experience",
+            "40,000 Firemaking experience",
+            "50,000 Mining experience",
+            "50,000 Agility experience",
+            "Access to the Salt Mines",
+            "Ability to build fire pits",
+            "A new disease-free herb patch in Weiss (requires building the fire of nourishment before use)",
+            "Ability to direct a teleport room portal to Troll Stronghold with a combination of salt"
+        ]
     },
     {
         "start": "Release each member of the council from the Culinaromancer's spell.",
@@ -4817,7 +5816,11 @@
                 "Good healing food, such as sharks"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "An experience lamp, which grants 20,000 experience to any skill above 50 (can be banked for later use)",
+            "Full access to the Culinaromancer's Chest, containing barrows gloves"
+        ]
     },
     {
         "start": "Talk to Edmond, who can be found at his home in East Ardougne, north of the Flying Horse Inn. ",
@@ -4890,7 +5893,27 @@
                 "Spade"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "4 Quest points",
+            "40,000 Agility experience",
+            "40,000 Construction experience",
+            "40,000 Farming experience",
+            "40,000 Herblore experience",
+            "40,000 Hunter experience",
+            "40,000 Mining experience",
+            "40,000 Smithing experience",
+            "40,000 Woodcutting experience",
+            "Access to Prifddinas\nAbility to fight Zalcano\nAccess to The Gauntlet\nAccess to Trahaearn Mine\nAccess to Iorwerth Dungeon\nAbility to change respawn point to Prifddinas\nAbility to move Player-owned house to Prifddinas\nAbility to teleport to Prifddinas with a teleport crystal\nAbility to make divine potions\nAbility to make crystal tools, armour and weaponry",
+            "Ability to fight Zalcano",
+            "Access to The Gauntlet",
+            "Access to Trahaearn Mine",
+            "Access to Iorwerth Dungeon",
+            "Ability to change respawn point to Prifddinas",
+            "Ability to move Player-owned house to Prifddinas",
+            "Ability to teleport to Prifddinas with a teleport crystal",
+            "Ability to make divine potions",
+            "Ability to make crystal tools, armour and weaponry"
+        ]
     },
     {
         "start": "Speak to Mori in Arceuus. ",
@@ -4909,7 +5932,14 @@
                 "None"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "2,000 coins",
+            "1,500 Hunter experience",
+            "500 Runecraft experience",
+            "Arceuus favour certificate. Reading it grants 10% Arceuus favour.",
+            "A page for Kharedst's memoirs, 'A dark disposition.' It teleports players to the centre of Arceuus."
+        ]
     },
     {
         "start": "Speak to Lady Vulcana Lovakengj in Lovakengj. ",
@@ -4928,7 +5958,14 @@
                 "Tinderbox (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "500 Mining experience",
+            "500 Smithing experience",
+            "6,000 coins",
+            "Lovakengj favour certificate. Reading it grants 10% Lovakengj favour.",
+            "A page for Kharedst's memoirs, 'Jewellery of jubilation.' It teleports players north-east of the bank in Lovakengj."
+        ]
     },
     {
         "start": "Speak to Brundt the Chieftain in Rellekka. ",
@@ -4999,7 +6036,17 @@
                 "Seal of Passage (if the elite Fremennik diaries aren't completed)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "V's shield",
+            "Access to the Island of Stone",
+            "Ability to kill a Basilisk Knight as a Slayer Task",
+            "A Fremennik honorific, Dr\u00e4pare, added to the player's Fremennik name",
+            "Ability to create and equip the Neitiznot faceguard",
+            "50,000 Slayer experience",
+            "50,000 Crafting experience",
+            "30,000 Runecraft experience"
+        ]
     },
     {
         "start": "Speak to Veliaf Hurtz outside the church in Slepe. ",
@@ -5056,7 +6103,20 @@
                 "Runes for Lvl-3 Enchant (1 cosmic rune, 5 fire runes) or an enchant ruby or topaz tablet"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "Access to Darkmeyer\nAccess to the Daeyalt Essence Mine\nAccess to the Hallowed Sepulchre\nAbility to shop at stores in Darkmeyer while wearing Vyre noble clothing\nAbility to use the wall shortcut on the eastern side of Darkmeyer with 63 Agility, after purchasing two long ropes from the Darkmeyer General Store and using them on it.",
+            "Access to the Daeyalt Essence Mine",
+            "Access to the Hallowed Sepulchre",
+            "Ability to shop at stores in Darkmeyer while wearing Vyre noble clothing",
+            "Ability to use the wall shortcut on the eastern side of Darkmeyer with 63 Agility, after purchasing two long ropes from the Darkmeyer General Store and using them on it.",
+            "A tome of experience, granting 15,000 experience to any skill. (level 60 or higher). This reward can be utilised six times and may be used for the same skill.",
+            "The Blisterwood flail",
+            "Darkmeyer teleport via Drakan's medallion",
+            "Boat travel between Burgh de Rott, Slepe and the Icyene Graveyard",
+            "Access to the True Blood Altar (with a Blood talisman)\nAccess to the Guardian of Blood in the Guardians of the Rift minigame",
+            "Access to the Guardian of Blood in the Guardians of the Rift minigame"
+        ]
     },
     {
         "start": "Speak to Martin Holt at the entrance to Kourend Castle in Kingstown. ",
@@ -5107,7 +6167,13 @@
                 "A dark essence block or a pickaxe and chisel (the latter is found at the mine) to obtain one"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "The book of the dead",
+            "An antique lamp giving 10,000 experience to any skill level 40 or above.",
+            "Ability to set your respawn point to Kourend Castle. Talk to Asteros Arceuus, now found on the 1st\u00a0floor[UK]2nd\u00a0floor[US] of Kourend Castle, to change your respawn point at any time.",
+            "24 new spells made available in the Arceuus spellbook (all combat spells with the exception of Ghostly Grasp and Inferior Demonbane, and all utility spells with the exception of Resurrect Crops and reanimation spells)."
+        ]
     },
     {
         "start": "Read the town notice board in Draynor Village, behind Fortunato's Wine Shop. ",
@@ -5124,7 +6190,14 @@
                 "Knife or a slash weapon (except abyssal whip, abyssal tentacle, or dragon claws) (obtainable during the quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 coins",
+            "1,000 Slayer experience",
+            "30 Slayer reward points",
+            "Access to the Sourhog Cave and Sourhog slayer tasks from Spria or Turael",
+            "Existing slayer helmets will have reinforced goggles added to them"
+        ]
     },
     {
         "start": "Speak to Gordon in their farm south of the Farming Guild. ",
@@ -5159,7 +6232,13 @@
                 "Thread (obtainable upstairs in the house)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "3,000 coins \u2014 If not claimed at quest completion due to no available inventory space, talk to Gordon again after the quest for the reward.",
+            "4,000 Crafting experience",
+            "3,200 Construction experience",
+            "Access to a tannery in the Kebos Lowlands (speak to Mary to access tanning services)"
+        ]
     },
     {
         "start": "You can start this quest by talking to the Mysterious Stranger inside Ver Sinhaza, south-east of Meiyerditch. ",
@@ -5186,7 +6265,11 @@
                 "Any axe besides the blessed axe"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "Four antique lamps each giving 20,000 experience to any combat skill level 50 or above, excluding Prayer.\nIf players completed the quest before 28 July 2021 and have already used the original two antique lamps that were rewarded, they will only receive two additional antique lamp upon re-completing the quest.",
+            "If players completed the quest before 28 July 2021 and have already used the original two antique lamps that were rewarded, they will only receive two additional antique lamp upon re-completing the quest."
+        ]
     },
     {
         "start": "Speak to Jamila at her stall in Sophanem. ",
@@ -5222,7 +6305,15 @@
                 "Any cooked or raw meat (fish will not work; raw yak meat will not work; purchasable from shop during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "50,000 Agility experience",
+            "Access to the Tombs of Amascut",
+            "A Keris partisan. (If your inventory was full, you may claim one for free from Selim in front of Al Kharid Palace.)",
+            "The circlet of water, an untradeable helm that acts like a waterskin when worn. (If your inventory was full, you may claim one for free from the High Priest in Sophanem.)",
+            "Access to a fairy ring on a small island south-west of the necropolis, code AKP. (Unlocked when entering the necropolis at the beginning of the quest.)",
+            "Jaltevas teleport option on the Pharaoh's sceptre. (Unlocked by selecting Commune on an obelisk in the necropolis, by the mine.)"
+        ]
     },
     {
         "start": "Wizard Persten north of Al Kharid, near the gate from Lumbridge. ",
@@ -5248,7 +6339,13 @@
                 "Pickaxe (obtainable during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "5,000 Runecraft experience\nAn additional 4,210 Runecraft XP is gained during the quest, for a total of 9,210 XP",
+            "An additional 4,210 Runecraft XP is gained during the quest, for a total of 9,210 XP",
+            "Access to the Guardians of the Rift minigame",
+            "A medium pouch (if not already acquired)"
+        ]
     },
     {
         "start": "Speak to Kovac at the Giants' Plateau, east of Al Kharid. ",
@@ -5275,7 +6372,11 @@
                 "1 bucket of water (Obtainable during quest) or ice gloves"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "6,000 Smithing experience",
+            "Access to the Giants' Foundry"
+        ]
     },
     {
         "start": "Search the tent at the campsite found east of the chasm at the southern end of the Kebos Lowlands. ",
@@ -5291,7 +6392,10 @@
                 "Secateurs (obtainable during quest) (magic secateurs also work)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "1 Quest point",
+            "10,000 Farming experience"
+        ]
     },
     {
         "start": "The Carnillean Mansion in the south-west corner of East Ardougne ",
@@ -5343,6 +6447,13 @@
                 "Tinderbox (can be obtained during quest)"
             ]
         },
-        "rewards": []
+        "rewards": [
+            "2 Quest points",
+            "60,000 Agility experience",
+            "50,000 Thieving experience",
+            "40,000 Hunter experience",
+            "Ability to mine ancient essence crystals in the Ghorrock Dungeon",
+            "Access to a stronger version of the Strange Creature, the Phantom Muspah"
+        ]
     }
 ]

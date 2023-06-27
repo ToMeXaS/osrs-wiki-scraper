@@ -1,6 +1,7 @@
 import requests
 import json
 import time
+import re
 from bs4 import BeautifulSoup
 
 skills = [
@@ -48,11 +49,30 @@ for i, quest_name in enumerate(quests, start=1):
     quest_length = rows[3].find_all("td")[0].text.strip()
 
     rewards = []
-    rewards_section = soup.find("h2", text="Rewards")
+    rewards_section = soup.find("span", class_="mw-headline", text=lambda text: text and ("Rewards" in text or "Reward" in text))
     if rewards_section:
-        rewards_list = rewards_section.find_next_sibling("ul")
-        if rewards_list:
-            rewards = [reward.strip().replace("experience", "exp") for reward in rewards_list.text.strip().split("\n")]
+        rewards_list = rewards_section.find_next("ul").find_all("li")
+        for reward in rewards_list:
+            rewards.append(re.sub(' +', ' ', reward.text.strip()))
+            
+            #
+            # I need to rethink this part, cuz this approach clearly doesn't work :D
+            #
+
+            #if "Quest point" in reward:
+                #qp = int(re.search(r'\d+', reward).group())
+            #else:
+                #exp = []
+                #other = []
+                #for skill in skills:
+                    #if skill + " experience" in reward and re.match(r'^\d', reward):
+                        #skill_data = re.sub(' +', ' ', reward).split(" ")
+                        #exp.append({"skill": skill_data[1], "exp": skill_data[0]})
+                        #print(skill_data)
+                    #else:
+                        #other.append(reward)
+                #rewards.append({"quest_points": qp, "experience": exp, "other": other})
+            #
 
     qp_req = 0
     quest_req = []
